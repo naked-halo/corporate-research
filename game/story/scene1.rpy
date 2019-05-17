@@ -1,0 +1,132 @@
+label real_start:
+ scene black
+ "I'm suddenly aware that it's dark."
+ "There's something over my head, and it's hard to hear what's going on around me."
+ "Where am I?"
+ guard "...Take her to Section 227."
+ "I'm roughly pulled up by my arms and half-dragged down what I guess is a hallway."
+ "I can barely keep myself upright - I think these guards sedated me or something when they grabbed me from my apartment."
+ "Speaking of, what the hell? Who are these guys?"
+ "..."
+ "Damn, I can't tell which way we're going. Are we going up or down?"
+ "It takes some time, but we finally stop moving."
+ #cardswipe sfx
+ #ping sfx
+ #door open sfx
+ scene interrogation_blindfold
+ "I'm ushered into the room and shoved into a chair, then tied into it."
+ woman "All right. This is the girl?"
+ guard "Affirmative. We foresaw that this girl would be hacking into our networks, so we apprehended her as soon as possible."
+ "What, what the hell? They KNEW?!?"
+ "No way. No goddamn way. My scripts are airtight."
+ "Everything I do is designed to be foolproof."
+ "Shit. Shit. Shit!"
+ "I try to struggle against my restraints. If they figured out it was me I'm dead."
+ woman "Hey! Get the relaxant!"
+ scene interrogation_blindfold_removed
+ "Before I can act any more, someone injects me. The effect is immediate and I lose all control in my arms and legs."
+ woman "Looks like you understand your situation."
+ "The woman addressing me snaps her fingers and the blindfold is removed."
+ scene interrogation_no_blindfold
+ "I can't make out the face of the woman in front of me; it's too bright."
+ woman "Riley Miller. Age 23, 158 centimeters, 80 kilograms..."
+ r "Hey!"
+ woman "Relax, this is a judgement-free zone."
+ "She's holding a big stack of papers and idly paging through them."
+ woman "Riley, we discovered several offshore accounts in your name, all with several thousand near-identical deposits of two cents made every day."
+ woman "We also picked out where those deposits were coming from."
+ "She shows me a transaction record from a few big corporations."
+ "Indez, Macrosoft, JoyFoods... Damn, these people are good."
+ woman "You've made quite a bit of money from this little penny-pinching venture, haven't you?"
+ r "No shit, Sherlock. Of course I did."
+ woman "You do realize that's... illegal, right?"
+ r "..."
+ "Come on, really? She's not an idiot, she knows that it's questionably legal at best."
+ woman "I'm waiting."
+ r "..."
+ r "Technically, yes."
+ woman "I'll take that as an admission."
+ woman "Several days ago, you accessed one of our offshore servers in an attempt to find some financial information, right?"
+ "I grind my teeth."
+ r "I knew that was too easy to get into…"
+ woman "After your latest acquisition of funds, we decided to take action and, well, leave the door open, so to speak."
+ woman "It wasn't too difficult to trace your location and positively ID you."
+ "So they already had plans to take me out."
+ "What kind of organization is this?"
+ woman "After you've been processed here, you'll be taken to the local authorities and arrested for wire fraud and embezzlement."
+ woman "Your trial will probably take a few weeks, but then you're off to a solid 25 years in federal prison, and that's IF you have a good lawyer."
+ woman "Of course, it doesn't need to be that way."
+ r "What do you mean?"
+ woman "Here, let's get you in a more comfortable position."
+ scene bg_interrogation
+ "The lights go out and I can finally make out who my interrogator is."
+ show riley sad at center_left
+ show lily neutral at center_right
+ "There's a strange circle around this woman's head, and are those..."
+ woman "Yes, they're real. No, you can't touch them."
+ show riley surprise
+ r "Shit. What is this..."
+ woman "Now. I can offer you an alternative to prison time."
+ woman "You'll be working for me in my laboratory as an assistant and test subject."
+ show riley question
+ r "Test? For what?"
+ show lily smallsmile
+ woman "That's classified for now."
+ woman "Don't worry, I'm not going to vivisect you or pump you full of drugs."
+ woman "I just need a good, healthy human who can follow orders."
+ "She - the angel - slides a sheet of paper over to me."
+ "It's a long, wordy contract for employment with a job description similar to what she described."
+ "At the bottom there's a space for me to sign."
+ woman "So? What do you think?"
+ "She dangles a pen in front of me."
+ r "...Gimme a minute."
+ "Well, she's not really giving me any choice here. 25 years in jail sucks ass."
+ "At this point it's just a formality. She already has what she wants - me."
+ show riley shrug
+ r "All right. Fine. You win."
+ "I grab the pen and sign my name on the paper."
+ show riley neutral
+ "..."
+ "Huh. And here I thought it was going to glow or magically bind my soul or something."
+ "But I'm... fine?"
+ show lily neutral
+ woman "Is there a problem?"
+ show riley mad
+ r "Several."
+ woman  "Such as?"
+ r "Why bother with all of this? You could have just kept me strapped to a chair and asked me to do whatever, right?"
+ show lily frownhips
+ woman "You think we're some sort of illegal operation here? Please."
+ woman "I've got countless Archangels breathing down my back every day. If they caught a whiff of me breaking any of their precious procedures I'd be stripped of all my research."
+ woman "We do things by the book here, contracts and all."
+ r "That still doesn't excuse the fact that you guys fucking kidnapped me!"
+ "She glares at me more intensely than I thought possible."
+ woman  "Uh, you did hack into our corporate database, right?"
+ woman  "We have every right to protect our Corporation from outside intrusion. That includes humans like you."
+ show lily inhaleecig
+ "She whips out what appears to be an e-cigarette and inhales deeply."
+ show lily exhaleecig
+ "Ugh. Smells obnoxiously fruity."
+ show lily neutralhips
+ woman  "Whatever the circumstance, you're officially an employee of The Corporation now. You're reporting to me, so I'll be taking care of you, as per the terms of the contract."
+ woman  "Follow me."
+ "I don't really have any other choice, so I follow her as she exits the room."
+ scene bg_lily_lab
+ "I'm lead through what feels like the world's largest cubicle farm and past some big doors."
+ show riley neutral at center_left
+ show lily neutral at center_right
+ woman  "Welcome to my laboratory."
+ r "Your laboratory?"
+ "It's full of everything you'd expect a mad scientist to have - beakers, whiteboards, the works."
+ woman  "We work on a lot of things here, from new construction compounds to medicine."
+ "Several angels look towards us, parting ways for the woman to pass through unimpeded."
+ show lily smallsmile
+ woman  "I'm the director, of course."
+ woman  "You'll be working for me as my personal guinea pig for my latest project."
+ r "Which is?"
+ woman  "I need to study your day-to-day reactions under certain conditions to test some new medication I've been tinkering with."
+ r "That's it? Why can't another angel do it?"
+ show lily neutral
+ woman "Angels are lacking in a few critical areas, I'm afraid. You though have everything I want in order to test things out."
+ woman "But, you're clearly in no condition today. Allow me to take you to your living quarters."
+jump scene2
