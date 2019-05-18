@@ -35,7 +35,26 @@ show riley nude_medpreg
 l "All right, it looks like it's not going to grow for a while."
 r "But it's still going to grow?"
 l "That's right. If the simulations I'm running are correct it should hit another growth spurt in another two months."
-l "After that, it'll probably be at its maximum size."
+l "After that, it'll be at its maximum size."
 r "Fun."
+"Lily sighs."
+l "Look, Riley..."
+l "I know that what's happened to you is unfortunate, but I want to try and make things better for you."
+r "Don't you think you've done enough for me already?"
+"I gesture to my curvy figure."
+r "I really don't want any more... alterations on your account."
+l "I was going to suggest that, actually."
+l "I can do some less involved experiments and instead focus on the quality of the pregnancy you're experiencing."
+l "Things like this would enhance the immersion for angels."
+r "And the pills you're making me take every day?"
+l "Right now we're doing an extended control experiment, so unless there's a strong trigger, there should be no more changes."
+show riley nude_medpreg_smile
+r "All right. That kind of makes things more bearable."
+show riley nude_mpreg_smilebelly
+r "Any chance you have an estimate for how much longer I'll be carrying this thing?"
+l "I can't say for sure, but it's definitely going to be a few more months."
+l "Maybe closer to the full fifteen. The cytogel is still very healthy and accepting nutrients from you."
+l "So, I can't change that, but at the very least you don't need to worry about more body changes."
+r "I'll take that. Better than nothing, I guess."
 
 return

@@ -1,5 +1,5 @@
 label scene2:
-
+#fade through to hallway
 "The woman takes to yet another floor of this massive building."
 scene bg_hallway
 "Finally, we arrive at what appears to be a hallway full of doors."
@@ -21,14 +21,14 @@ r "This is… it?"
 woman "That's it. Report to me at seven AM sharp tomorrow."
 "She abruptly turns and heads out to leave."
 r "Wait!"
-l "What?"
+woman "What?"
 r "What's… your name? I never caught it."
 show lily surprise
 woman "My apologies. I must have forgotten that."
 show lily smallsmile
 l "My name is Lily Christopher, Director of Metacompound Research at The Corporation."
 l "Welcome aboard, Riley."
-"Somehow hearing her name is a bit of a relief. The all-angel nature of this place feels so alienating."
+"Somehow, hearing her name is a bit of a relief. The nature of this place feels so alienating."
 hide lily
 "Before I can say anything else, Lily nods her head and leaves."
 "That's it. I'm all alone now."
@@ -110,7 +110,7 @@ show cg_shower3
 r "HEY! STOP! ABORT! CEASE!"
 "It's no use. The scrubbing begins as they start with my head and shoulders, then move down to my armpits and chest."
 r "Nggh…"
-"Out of all the places on my body, these things have to hit where I'm fucking sensitive. Of course."
+"Out of all the places on my body, these things have to target where I'm fucking sensitive. Of course."
 "The scrubbing feels stiff and mechanical - each one does a specific behavior and moves to the next step without a break."
 "I grin and bear it for a while longer."
 #whirr sfx
@@ -125,6 +125,16 @@ r "Mmhhh…"
 r "Okay, smartass. Stay there and keep going."
 "Surprisingly the arm continues, with a few blasts of water every few seconds."
 "Fuck, I could get used to this."
+"The jets continue for a few more minutes as I writhe in place, trying to forget that I'm getting off via robot."
+"How pathetic."
+r "Just a little more..."
+r "Hahh..."
+#whirr sfx
+"Before it starts getting good, the machine stops, signaling the end of my shower."
+"I'm a bit miffed, but whatever. I'll finish things off later tonight."
+"The room blasts me with hot air, getting me dried up in a short amount of time."
+"My clothes pop out of the panel with a little ding, looking a lot cleaner than when I put them in."
+r "Time to face the music..."
 #timeskip
 scene bg_lily_lab
 show riley smile at center_left
@@ -133,6 +143,7 @@ show lily neutral at center_right
 l "All right. Looks like you've cleaned up nicely. You should be free of any trace of disease, so that'll eliminate any unforeseen consequences."
 r "That's what it was doing?"
 l "More or less."
+"Interesting. There might have been some kind of compound in that water that helped."
 l "All right, now that you've been cleaned up…"
 show lily pill
 l "I'll need you to take one of these."

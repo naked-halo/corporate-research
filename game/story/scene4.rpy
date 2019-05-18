@@ -12,7 +12,11 @@ r "Incredible…"
 "It's like something out of a science fiction book."
 "Beautiful buildings dot the streets, all with a bunch of wares, from handbags to fresh aquaponically grown food."
 "There's even an electronics store, of all things."
-show riley boobneutral
+show riley casual_boobneutral
+r "How many angels live here, anyway?"
+l "About five hundred thousand, give or take."
+show riley casual_boobsurprise
+r "Shit, that's a lot."
 r "So does this place even need to interact with the outside world?"
 show lily neutral
 l "In theory, yes. We can work entirely in isolation."
@@ -102,7 +106,7 @@ r "Whew, this is so much better."
 l "Glad you think so."
 show riley casual_boobneutral
 r "All right, what's on the agenda for tomorrow?"
-l "No, that'll be all. I have a few more experiments for you tomorrow, so please be ready."
+l "I have a different experiment for you. It'll be a bit more involved than today's experiment, so be ready."
 r "...Sounds good."
 l "Good night, Riley."
 hide lily
@@ -131,6 +135,7 @@ show riley underwear_boobarousednipple
 "I pinch my nipples, which have somehow been made more sensitive by all of this growing they've been doing."
 r "Ohhh fuck, that's good."
 "I can see my hands sinking into my chest. They're everything I've dreamed about what big tits are like."
+# TODO: More masturbation here
 hide riley
 "I spend the rest of the evening examining my new figure."
 "If I'm going to be stuck here, I might as well get as much mileage out of the new benefits this place offers me."
@@ -150,7 +155,7 @@ r "That's strange."
 "With nothing else, I take a look on her desk and see if I can find anything."
 r "Let's see..."
 "A budget folder, department memos, and a few post-it notes don't reveal much."
-"The budget seems to be from last year, but there's something on the page that catches my eye."
+"The budget seems to be from last month, but there's something on the page that catches my eye."
 "'Artifical phallic delivery system for cytogel -- Δ333,700'"
 "What? Did she seriously develop a fancy dildo?"
 show riley casual_booblaugh
@@ -177,8 +182,9 @@ r "Seriously?"
 "The dildo in question is a pale, translucent blue, with what appears to be a small dial embedded inside where the testicles would be."
 "It's also... pretty big."
 show lily smallsmile
-l "Like it? I developed it myself. Just finished production of the commercial models last year."
+l "Like it? I developed it myself. Just finished the commercial models last month."
 l "There's plenty of settings for you to try, so knock yourself out."
+l "I'll let you head back to your quarters today for privacy."
 show riley casual_boobfrown
 r "No pills or any other surprises today?"
 show lily neutral
@@ -188,10 +194,109 @@ l "I expect that this'll take a while, so feel free to take the day off."
 l "Just be sure to use the dildo tonight and report back to me tomorrow."
 r "Any 'surprises' this time?"
 show lily smallsmile
-l "All the instructions are in the box. Feel free to read up on how it works."
+l "I've included a list of instructions with the toy in the box there. Follow those."
 show riley casual_boobsurprise
 r "Huh. Okay."
 show riley casual_boobsmile
 r "I guess I'll get going, then!"
+scene bg_hallway
+"The box this thing came in is interesting. Feels like one of those novelty boxes you get for a new model of smartphone."
+"Fishing out the instructions, I decide to take a read while walking back to my room."
+"'The Immaculate Conception' is a high-tech dildo that promises the ultimate pleasure in the best possible package."
+"To use, do the following:"
+"1. Insert the cytogel capsule into the base of the toy."
+"2. Adjust the dildo settings to match your preferences."
+"3. Enjoy!"
+"Huh, so it's ultimately an ejaculating dildo?"
+"That's kind of disappointing. Heck, I have one of these at home."
+"What does it do that's different?"
+show riley casual_boobshrug
+"Whatever. It can't be all that bad."
+show bg_riley_quarters
+show riley casual_boobsmile at centered
+"After all, I can't say no to such a cool-looking toy."
+"I load up the cytogel capsule as directed, which clicks in effortlessly."
+"It looks like the rest of the settings are all app-controlled with my tablet, too, which is awesome."
+"I'm actually kind of digging the level of integration these tablets have with life in this place."
+"The tablet automatically detects any devices it can interact with, from the TV to this sex toy."
+"Hmm... medium pump speed, maximum gel viscosity, and for good measure, set the heat to 'warm'."
+"If I'm right this will give a semi-realistic feel, which I'm all about."
+"With that ouy of the way…"
+hide riley
+show riley nude_boobsmile
+"I check to see if the tablet I have has any access to porn, either on the outside or inside The Corporation's own intranet."
+"Thanks to my skills at navigating computer networks, it doesn't take long to find what I'm looking for."
+r "All right, awesome!"
+"There's a ton of videos, some even featuring angels."
+"It's mostly girl-on-girl content; makes sense, considering the angels here."
+"I don't really mind either way. Porn is porn."
+"I can cast the tablet to the TV, so I hop onto the bed and start up a video."
+show cg_dildo1
+#start porn soundtrack
+"It's a pretty standard porn plot: Girl meets girl, girl takes girl on date…"
+#porn sfx
+"Aaaaand there's the fucking."
+show cg_dildo2
+"I lazily circle my fingers around my clit while I focus on the action."
+"Ooh, that's a good oral technique she's got there."
+"Hmm, it's been ages since anyone's gone down on me."
+"It's not because of the hair, it's just that guys get so grossed out by the taste."
+"I wonder if a girl would be a better sexual partner for me instead."
+"Then maybe I could really get down and dirty with her, tongues and all."
+#sound of straps
+"Oh hell yeah, now the top is getting out her strap-on…"
+show cg_dildo3
+"That dildo is looking awfully tempting right about now."
+"The porn''s getting good and I just want to immerse myself in this."
+show cg_dildo4
+"Taking the included lube that came with The Immaculate Conception, I rub a small amount over the toy, and a small amount on myself."
+"It's cool, but tingly. I can feel a warm sensation where I applied the lube to myself."
+show cg_dildo5
+"I set up the toy on the bed and start hovering over the head, ready to go."
+"This is a thicker toy, so I'll have to go slow at first."
+r "Here goes…"
+show cg_dildo6
+"As I begin to penetrate the toy, it starts to vibrate a little."
+"Instead of just a flat vibration, the toy twitches and throbs, almost like the real deal."
+"The mass of the shaft feels like it's moving into me, too."
+r "Fffffuck…"
+show cg_dildo7a
+"I relax and let the dildo slide all the way up my pussy."
+"The entire toy feels alive, rhymically moving up and down."
+show cg_dildo7b
+"It doesn't take long for me to find a rhythm that works, allowing for maximum penetration while also feeling incredible."
+"I can't help but let out a few blissful cries as the pleasure builds inside me."
+"It quickly swells, like a dam about to burst."
+r "Ohmygodohmygodohmygodohmygod—-"
+show cg_dildo8
+"And just like that, the dam breaks."
+"The toy also launches that special gel at about the same time, filling my insides with sticky ejaculate."
+"..."
+"..."
+"My head's all blank."
+"That was one of the best orgasms I've ever had, bar none."
+"And all of it was from a fake dick."
+"Heh, if this were from a real human, I'd probably get pregnant from this."
+#fade to black
+#shower sfx
+"I clean up a little bit and decide to take a quick shower to rinse off the sweat."
+#fade to bg_riley_quarters
+show riley nude_boobsmile
+"With my libido satiated, I decide to take it easy for the rest of the evening."
+"Feeling like spoiling myself further, I order some ice cream from the tablet."
+"Appropriately, there's a flavor that catches my eye."
+r "Chocolate Afterglow… hell yes."
+"Post-sex ice cream is, after all, the best thing in the world."
+"Like magic, it arrives in no time flat."
+"Is there a small vending machine next to me that delivers these?"
+show riley nude_booblaugh
+r "So good…"
+"The power of chocolate and a touch of hazelnut fills my mouth as I settle back down with some Angel-based television shows."
+show riley nude_smile
+"I guess I'll report to Lily in the morning about my new sex life."
+"Should be fun chatting with her about how her toy is the best partner I've had so far."
+#long timeskip
+
+
 
 jump scene5

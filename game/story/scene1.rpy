@@ -50,7 +50,7 @@ label real_start:
  "I grind my teeth."
  r "I knew that was too easy to get into…"
  woman "After your latest acquisition of funds, we decided to take action and, well, leave the door open, so to speak."
- woman "It wasn't too difficult to trace your location and positively ID you."
+ woman "After that, it wasn't too difficult to trace your location and positively ID you."
  "So they already had plans to take me out."
  "What kind of organization is this?"
  woman "After you've been processed here, you'll be taken to the local authorities and arrested for wire fraud and embezzlement."
@@ -67,15 +67,17 @@ label real_start:
  show riley surprise
  r "Shit. What is this..."
  woman "Now. I can offer you an alternative to prison time."
- woman "You'll be working for me in my laboratory as an assistant and test subject."
+ woman " Should you accept, you'll be working for me in my laboratory as an assistant and test subject."
  show riley question
- r "Test? For what?"
+ r "Test subject? For what?"
  show lily smallsmile
  woman "That's classified for now."
  woman "Don't worry, I'm not going to vivisect you or pump you full of drugs."
  woman "I just need a good, healthy human who can follow orders."
  "She - the angel - slides a sheet of paper over to me."
  "It's a long, wordy contract for employment with a job description similar to what she described."
+ "Like she says, I'll be testing a bunch of stuff for her. Gels, medication, plus a few more incidentals."
+ "'Guinea Pig' would be a better descriptor of what I'd really be doing for this woman."
  "At the bottom there's a space for me to sign."
  woman "So? What do you think?"
  "She dangles a pen in front of me."
@@ -96,12 +98,12 @@ label real_start:
  woman  "Such as?"
  r "Why bother with all of this? You could have just kept me strapped to a chair and asked me to do whatever, right?"
  show lily frownhips
- woman "You think we're some sort of illegal operation here? Please."
+ woman "You think we're running some sort of illegal operation here? Please."
  woman "I've got countless Archangels breathing down my back every day. If they caught a whiff of me breaking any of their precious procedures I'd be stripped of all my research."
  woman "We do things by the book here, contracts and all."
  r "That still doesn't excuse the fact that you guys fucking kidnapped me!"
  "She glares at me more intensely than I thought possible."
- woman  "Uh, you did hack into our corporate database, right?"
+ woman  "You did hack into our corporate database, right?"
  woman  "We have every right to protect our Corporation from outside intrusion. That includes humans like you."
  show lily inhaleecig
  "She whips out what appears to be an e-cigarette and inhales deeply."
@@ -122,11 +124,11 @@ label real_start:
  "Several angels look towards us, parting ways for the woman to pass through unimpeded."
  show lily smallsmile
  woman  "I'm the director, of course."
- woman  "You'll be working for me as my personal guinea pig for my latest project."
- r "Which is?"
- woman  "I need to study your day-to-day reactions under certain conditions to test some new medication I've been tinkering with."
+ woman  "You'll be working for me as my personal assistant for my latest projects."
+ r "Which are?"
+ woman  "I need to study your day-to-day reactions under specific conditions to test some new medications I've been tinkering with."
  r "That's it? Why can't another angel do it?"
  show lily neutral
- woman "Angels are lacking in a few critical areas, I'm afraid. You though have everything I want in order to test things out."
+ woman "Angels are lacking in a few critical areas, I'm afraid. You, though, have everything I want in order to test things out."
  woman "But, you're clearly in no condition today. Allow me to take you to your living quarters."
 jump scene2

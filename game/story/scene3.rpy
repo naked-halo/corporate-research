@@ -17,17 +17,19 @@ l "Welcome back, Riley. How was your nap?"
 show riley frown
 r "...Fine."
 "Lily observes me for a moment, clearly aware of my hesitation around her."
-l "Now, I'm sure you\'re probably suspicious of these…"
+l "Now, I'm sure you're probably suspicious of these…"
 show lily pill
 l "But rest assured, they're perfectly safe."
 show lily neutral
 r "I mean, you can say that, but that doesn't change the fact that I'm not exactly here by choice."
 r "You know this was basically a way to recruit people 'legally' and look squeaky clean, right?"
 show lily frown
-l "I'm gonna have to stop you there."
+l "I'm gonna have to stop you right there."
 l "Full disclosure: this shit is the nicest treatment The Corporation offers."
 l "You think you're the only human here? Think again."
 l "I had to pull a lot of strings just to get you on my team. Your original assignment wasn't pleasant."
+l "Unless you like the idea of being hooked into our VR call center for nine hours a day."
+r "Not... really?"
 show lily neutral
 l "You're a talented woman, Riley. It would be a waste to keep you in some obscure corner of the business."
 r "..."
@@ -42,21 +44,20 @@ l "..."
 r "You want me to take this? Fine."
 "I chew and swallow the second of what I assume are another dozen pills."
 r "Anything else?"
-"She holds up a flash drive and tosses it to me."
-l "I would like for you to watch this video in your quarters. Return once you're done."
+l "Let's go back to that place where you took a shower."
+l "It's designed as a testing chamber, so you'll be doing a few experiments here."
 show riley shrug
 r "Fine. Whatever."
 #transition
-scene bg_riley_quarter
+scene bg_text_chamber
 show riley neutral at centered
-"Now that I'm back in the room, I decide to take a look at the flash drive Lily gave to me."
-"It's a sleek, black piece, with what appears to be a slider to push out the USB part of the drive."
-"Honestly, I'm surprised it's not something more advanced. Wouldn't it be easier to stream it to my monitor in here?"
-r "Let's get this over with, I guess."
-"I slide the drive into the monitor and take a seat."
-"It immediately lights up as the video starts."
+"The shower room is no more, instead replaced with a huge monitor and a stool in the middle of the room."
+l "Okay Riley. Please sit down on the stool while I prepare something for you."
+"I park myself down and listen to Lily tapping out a set of instructions on her tablet behind me."
+"This is the first of many experiments I'll be enduring, so I mentally strap in and prepare for the worst."
+"The monitor pops and buzzes to life, showing... a video?"
 scene cg_video1
-"The video is...weird. Like, I don't really understand what's going on."
+"This video is...weird. Like, I don't really understand what's going on."
 "It's some strange art piece that flips and scrambles an image of a few statues while some weird buzzing plays in the background."
 "And yet…"
 "I can't stop looking at it."
@@ -86,26 +87,24 @@ r "Hmm... let me try that again."
 "I start feeling hot."
 "And then..."
 scene cg_video2
-r "Fuck yes."
+r "Ah!"
 "They've definitely grown! Holy shit, these feel amazing."
-"I've toyed with getting implants but this is way better!"
+"I've toyed with getting implants but this is way, way better."
 r "Wonder if they could get even bigger..."
 "Without even having to concentrate I feel my chest heating up again, and the skin starting to stretch to accomodate my growing bustline."
 scene cg_video3
 r "Shit..."
 "They're huge. Massive, enormous tits."
-r "At least an E cup. Goddamn."
+l "Ah, that's quite the result. Amazing..."
+"Lily excitedly taps on her tablet, presumably taking notes about my brand new tits."
 "I think that's what the pill was for. Did Lily make something that can change someone's body with a thought?"
-"What's in there? Nanomachines? Hormones? Am I just having a vivid hallucination?"
-"There's only one way to find out."
+l "Okay, we can stop for today. Let's get out of here."
 #transition to bg_lily_lab
 scene bg_lily_lab
 show lily surprise at center_right
 show riley boobembarassed at center_left
-l "Uh... wow. You sure have grown since I last saw you."
-"So they are real."
-show riley embarassed
-r "Sh-shut up! What was in that pill?"
+r "W-What was in that pill?!?"
+r "What did you do to my tits?"
 l "The exact formula is something I can't disclose to you."
 l "But just know that when the pill is consumed, it accelerates your natural biological state with enough concentration."
 r "Whatever. All right, I'm ready to be changed back. There's a way to reverse this, right?"
@@ -124,7 +123,7 @@ show riley boobmadcrossed
 r "..."
 r "You could have warned me."
 show lily neutral
-l "Unfortunately, that would have invalidated the experiment. The subject needs to be unaware in order to maximize the effect."
+l "Unfortunately, that would have invalidated the experiment. Remember that video? The subject needs to be unaware in order to maximize the effect."
 show riley boobneutralcrossed
 "I sigh."
 r "I'd be lying if I said I didn't always want bigger tits."
@@ -135,7 +134,7 @@ l "Excellent work, Riley. I expect more results tomorrow."
 r "Right, then. Anything else for today?"
 l "Nope, that's it."
 l "Have you explored the rest of the place yet? Any questions?"
-r "Any clothing stores?"
+r "Can I hit up a clothing store?"
 "I point to my huge bustline."
 r "I need a new bra."
 l "Ah, of course. How about we kill two birds with one stone, then?"
