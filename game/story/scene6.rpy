@@ -50,11 +50,14 @@ r "And the pills you're making me take every day?"
 l "Right now we're doing an extended control experiment, so unless there's a strong trigger, there should be no more changes."
 show riley nude_medpreg_smile
 r "All right. That kind of makes things more bearable."
-show riley nude_mpreg_smilebelly
+show riley nude_medpreg_smilebelly
 r "Any chance you have an estimate for how much longer I'll be carrying this thing?"
 l "I can't say for sure, but it's definitely going to be a few more months."
-l "Maybe closer to the full fifteen. The cytogel is still very healthy and accepting nutrients from you."
+l "Maybe closer to the full fifteen."
+show riley nude_medpreg_sadbelly
+l "The cytogel is still very healthy and accepting nutrients from you."
 l "So, I can't change that, but at the very least you don't need to worry about more body changes."
-r "I'll take that. Better than nothing, I guess."
+r "..."
+"Even with her reassurances, I'm still stuck with a fake pregnancy that feels all too real."
 
 return
