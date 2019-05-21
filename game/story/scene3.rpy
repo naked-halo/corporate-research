@@ -1,7 +1,7 @@
 label scene3:
 show riley smile at centered
 "I wake up a few hours later feeling a little better, especially after that shower."
-"Maybe these are just placebo tests and I\'ll be done in a week!"
+"Maybe these are just placebo tests and I'll be done in a week!"
 show riley neutral
 r "Yeah, right."
 "Something's up. There's no way she'd just let me take a few pills every day."

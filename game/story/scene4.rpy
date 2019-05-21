@@ -14,7 +14,7 @@ r "Incredible…"
 "There's even an electronics store, of all things."
 show riley casual_boobneutral
 r "How many angels live here, anyway?"
-l "About five hundred thousand, give or take."
+l "About two hundred thousand, give or take."
 show riley casual_boobsurprise
 r "Shit, that's a lot."
 r "So does this place even need to interact with the outside world?"
@@ -40,7 +40,7 @@ l "That's true. At least, for now."
 show lily neutral
 l "The Corporation is working on a solution that should be ready in a few decades."
 r "Decades? Don't you guys have super technology? There's no way you built this place with the tools humans have."
-l "In some aspects we certainly have some better tech. But in reality, we're maybe only about 50 years ahead of human technology."
+l "In some aspects we certainly have some better tech. But in reality, we're maybe only about 75 years ahead of human technology."
 l "Humans are incredibly good at innovating with limited resources, and that's why your species has survived for so long."
 l "Angels, on the other hand, are stronger, more durable, and functionally immortal."
 l "We've been spoiled in that regard, so we lost our ability to innovate."
@@ -49,7 +49,8 @@ show riley booblaugh
 r "Wow, never expected angels to be lazy."
 show lily smallsmile
 l "You're not that far off."
-"I'm surprised at how candid Lily is being about her own race. Sure, angels are always depicted as these perfect, inscrutable beings, but I would have never known about how they run things here on Earth."
+"I'm surprised at how candid Lily is being about her own race."
+"Sure, angels are always depicted as these perfect, inscrutable beings, but I would have never known about how they run things here on Earth."
 show riley boobquestion
 r "Why tell me all of this, anyway?"
 l "Because I can. That's all."
@@ -91,6 +92,7 @@ show lily embarrassed
 l "Something that fits… your new breasts."
 r "That's a new expression. Don't tell me…"
 r "You like these, don't you?"
+show riley booblift_smirk
 "I suggestively lift them up for her."
 l "I-it's not like that!"
 show riley booblaugh

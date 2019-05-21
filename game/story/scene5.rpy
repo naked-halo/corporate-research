@@ -95,13 +95,13 @@ show riley casual_pregshock
 r "..."
 r "Fifteen months?"
 "She does know that a normal human pregnancy only lasts nine, right?"
-l "It probably won't be that long. Obviously, we won't try to extend the pregnancy, but we'll need to check."
+l "Obviously, we won't try to extend the pregnancy, but we'll need to check."
 l "I'll need to do more experiments on you, naturally."
 l "Since this is part of your contract, this'll be a few more months of testing to check on your overall health."
 l "I suppose I'll start with —"
 "I don't even hear her next words."
 "Realization hits me: I'm really, truly stuck here."
-"I'm impersonating a pregnant woman; a body that's no longer recognizable to me."
+"I'm impersonating a pregnant woman with a body that's no longer recognizable to me."
 "Was leaving even an option?"
 #long timeskip
 jump scene6
