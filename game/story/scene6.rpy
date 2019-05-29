@@ -61,7 +61,7 @@ show lily question
 l "Do you need some new clothes?"
 l "Your pregnancy has, er, stretched a few things to their limits."
 r "So you've noticed..."
-"I really didn't want to admit it, either, but I really didn't want to admit that out loud."
+"I really didn't want to admit it, either, but I really didn't want to say that out loud."
 show riley casual_medpreg_whatever
 r "All right."
 r "This place doesn't sell any maternity wear, do they?"
@@ -76,7 +76,7 @@ r "I guess if there's no other choice..."
 show riley maternity_medpreg_frown at center_left
 show lily smallsmile at center_right
 "Ugh. I look ridiculous."
-"My belly sticks out, emphasized by the semi-open nature of the top I'm wearing."
+"My belly sticks out, emphasized by the open nature of the top I'm wearing."
 "At least things are covered. I nearly had a heart attack seeing the more risque options."
 l "I think it looks nice on you, Riley."
 r "Don't tell me you're one of those pregnancy fetishists too."
@@ -91,7 +91,7 @@ show riley maternity_medpreg_question
 r "So you're part of the group and she commissioned your side of the business to make one?"
 l "In a way, yes."
 show riley maternity_medpreg_neutral
-r "Seriously? Why use the fake gel stuff when you could just as easily make angels fertile again?"
+r "Seriously? Why use the fake gel stuff when you could just as easily make angels pregnant?"
 l "Well, that's actually why you're here, Riley."
 show riley maternity_medpreg_surprise
 r "Huh?!?"
