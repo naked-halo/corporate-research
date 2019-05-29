@@ -230,7 +230,10 @@ show riley nude_boobsmile
 "Thanks to my skills at navigating computer networks, it doesn't take long to find what I'm looking for."
 r "All right, awesome!"
 "There's a ton of videos, some even featuring angels."
-"It's mostly girl-on-girl content; makes sense, considering the angels here."
+"But what's more interesting are all of the tags attached to some of these vids."
+r "Let's see... 'Pregnant MILF', 'Pregnant Angel Lesbian', 'Pregnant Anal'..."
+"Geez, There's a lot of pregnany-themed videos on this site."
+"It's also mostly girl-on-girl content; makes sense, considering the angels here."
 "I don't really mind either way. Porn is porn."
 "I can cast the tablet to the TV, so I hop onto the bed and start up a video."
 show cg_dildo1
@@ -248,8 +251,9 @@ show cg_dildo2
 #sound of straps
 "Oh hell yeah, now the top is getting out her strap-on…"
 show cg_dildo3
-"That dildo is looking awfully tempting right about now."
-"The porn''s getting good and I just want to immerse myself in this."
+"Shit, that's a big one. How does it fit in there?"
+"That dildo Lily gave me is looking awfully tempting right about now."
+"The porn's getting good and I just want to immerse myself in this."
 show cg_dildo4
 "Taking the included lube that came with The Immaculate Conception, I rub a small amount over the toy, and a small amount on myself."
 "It's cool, but tingly. I can feel a warm sensation where I applied the lube to myself."
@@ -298,7 +302,4 @@ show riley nude_smile
 "I guess I'll report to Lily in the morning about my new sex life."
 "Should be fun chatting with her about how her toy is the best partner I've had so far."
 #long timeskip
-
-
-
 jump scene5
