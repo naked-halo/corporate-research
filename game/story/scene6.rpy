@@ -95,7 +95,7 @@ r "Seriously? Why use the fake gel stuff when you could just as easily make ange
 l "Well, that's actually why you're here, Riley."
 show riley maternity_medpreg_surprise
 r "Huh?!?"
-l "I'm tring to see if I can use the pills I developed to make fertile angels again."
+l "I'm tring to see if I can use the pills I developed to make us fertile."
 l "We have a womb and ovaries, but they're pretty much vestigial."
 l "We haven't had an angel pregnancy in 12,000 years."
 l "The cytogel is a step in the right direction - after all, emulating a pregnancy means that we could potentially support a real one."
@@ -123,6 +123,5 @@ show lily neutral
 l "It requires more research on my part, though."
 show lily smile
 l "Still, it should be possible. Our DNA is slightly different from humans, so we could potentially develop hermaphroditic structures..."
-"Lily mutters more to herself while we walk back to her lab."
 #timeskip animation
 jump scene7
