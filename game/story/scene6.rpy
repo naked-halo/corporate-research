@@ -3,7 +3,7 @@ label scene6:
 scene bg_riley_quarters
 "The next few weeks go by in a hazy, indescribable blur."
 "I'm poked and prodded by Lily every day, who takes her sweet time going through all of the data."
-"According to her, I'm 0.0035% Scandinavian."
+"According to her, I'm a sixteenth Scandinavian."
 "Huzzah."
 show cg_riley_preg3
 "Meanwhile, my 'baby' is healthy and continuing to grow."

@@ -3,7 +3,8 @@ label scene8:
     scene bg_riley_quarters
     "It's been two months since I learned that Lily's experiments have been focusing on angelic pregnancies."
     "I've mainly been helping Lily with the paperwork and documentation involved in the pills and dildo she's created."
-    "But today..."
+    "All while monitoring my own pregnancy."
+    "Speaking of, today..."
     show cg_riley_preg4
     "I'm noticing that I've grown again."
     "My belly is enormous now; it's gotten to the point where it's further out than my boobs."
@@ -25,4 +26,4 @@ label scene8:
     show riley_bigpreg_hold_neutral
     "It's oddly soothing."
     "Maybe it's the dopamine?"
-return
+    jump scene12

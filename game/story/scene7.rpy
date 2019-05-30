@@ -89,4 +89,4 @@ label scene7:
     "I can't deny that I feel pretty sexy right now."
     "Maybe it's the feeling of relief that I'm able to help Lily and her people out instead of just being a guinea pig."
     "Regardless, I think I'll try to enjoy this pregnancy now."
-    return
+    jump scene8

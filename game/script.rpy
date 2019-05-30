@@ -153,6 +153,11 @@ image lily futaembarassed = "/images/sprites/lily/l_neutral.png"
 image lily futaaroused = "/images/sprites/lily/l_neutral.png"
 
 #Define CGs and backgrounds
+image cg_boobjob_1 = im.FactorScale("/images/cg/cg_boobjob_1.png", 0.5)
+image cg_boobjob_2 = im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5)
+image cg_boobjob_3 = im.FactorScale("/images/cg/cg_boobjob_3.png", 0.5)
+image cg_boobjob_4 = im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5)
+image cg_boobjob_5 = im.FactorScale("/images/cg/cg_boobjob_5.png", 0.5)
 
 #Define transforms
 transform common(x = 0):
@@ -187,6 +192,21 @@ transform center_right:
 transform center_left:
     common(-300)
 
+#Define transitions
+define titjobdissolve = MultipleTransition([
+False, Dissolve (0.4),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Pause(1.0),
+Dissolve (0.4),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Pause(1.0),
+Dissolve (0.4),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Pause(1.0),
+Dissolve (0.4),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Pause(1.0),
+Dissolve (0.4),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Pause(1.0),
+Dissolve (0.4),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Pause(1.0),
+True])
 
 # The game starts here.
 
