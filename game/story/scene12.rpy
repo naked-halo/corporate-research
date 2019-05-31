@@ -79,8 +79,11 @@ label scene12:
     r "Mmm, that's much better, isn't it?"
     r "My tits around your cock, and my mouth on the very tip?"
     l "Hah... yes, it's good."
-    show cg_boobjob_4
-    with dissolve
+    show cg_boobjob_1
+    with titjobdissolve
+    l "Mmh..."
+    show cg_boobjob_1
+    with titjobdissolve
     l "Ah! It's amazing!"
     l "I never thought I'd love this so much!"
     show cg_boobjob_3

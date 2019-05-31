@@ -195,9 +195,9 @@ transform center_left:
 #Define transitions
 define titjobdissolve = MultipleTransition([
 False, Dissolve (0.4),
-im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Pause(1.0),
-im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.4),
-im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Pause(1.0),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (1.5),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (1.0),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (1.5),
 True])
 
 # The game starts here.
