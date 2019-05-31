@@ -85,4 +85,4 @@ label scene12:
     l "I never thought I'd love this so much!"
     show cg_boobjob_3
     "It's really easy to make her react. Cocks are much, much easier to get going, it seems."
-    return
+    jump scene13
