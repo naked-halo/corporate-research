@@ -158,8 +158,9 @@ l "Not really."
 "Well, she wasn't lying about the flavor..."
 r "Not bad."
 r "Now what?"
-l "Just relax in your quarters for the rest of the morning. You got up early so feel free to catch up on some shut eye."
+l "Just relax in your quarters for the rest of the morning. You got up early, so feel free to catch up on some shut eye."
 l "Once you get back I'll have another test for you to run."
+l "Oh, and make sure you have something to eat."
 show riley shrug
 r "All right. Suits me just fine."
 #clockwipe to bg_quarters

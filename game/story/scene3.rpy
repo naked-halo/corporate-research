@@ -9,6 +9,15 @@ r "Yeah, right."
 show riley nervous
 "Shit, she's got something planned, I know it."
 "I'll have to be on my guard."
+"Before I head out, though, I recall something."
+"Lily told me to eat something prior to taking the next pill."
+"I pull up my tablet and look at the menu."
+"Ugh, the lack of meat products is frustrating. It's all vegetarian, with meat 'substitutes' taking the place of my favorite animal staples."
+"Left with little else, I decide to pick out a jackfruit sandwich with some extra sauce."
+"Hopefully this manages to fill me up."
+"Within moments, my chosen sandwich appears."
+r "Huh. Tastes like pork."
+"Better than nothing, I guess."
 #transition to bg_lily_lab
 scene bg_lily_lab
 show lily smile at center_right
