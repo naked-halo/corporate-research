@@ -1,12 +1,12 @@
 label scene3:
-show riley smile at centered
+show riley arms normal nude smile at centered
 "I wake up a few hours later feeling a little better, especially after that shower."
 "Maybe these are just placebo tests and I'll be done in a week!"
-show riley neutral
+show riley arms normal nude neutral
 r "Yeah, right."
 "Something's up. There's no way she'd just let me take a few pills every day."
 "Especially with all of the dirt she's got on me."
-show riley nervous
+show riley arms normal nude nervous
 "Shit, she's got something planned, I know it."
 "I'll have to be on my guard."
 "Before I head out, though, I recall something."
@@ -21,9 +21,9 @@ r "Huh. Tastes like pork."
 #transition to bg_lily_lab
 scene bg_lily_lab
 show lily smile at center_right
-show riley neutral at center_left
+show riley arms normal nude neutral at center_left
 l "Welcome back, Riley. How was your nap?"
-show riley frown
+show riley arms normal nude frown
 r "...Fine."
 "Lily observes me for a moment, clearly aware of my hesitation around her."
 l "Now, I'm sure you're probably suspicious of these…"
@@ -42,11 +42,11 @@ r "Not... really?"
 show lily neutral
 l "You're a talented woman, Riley. It would be a waste to keep you in some obscure corner of the business."
 r "..."
-show riley mad
+show riley arms normal nude mad
 "So she thinks that because she pulled me out of the trash heap she gets to push some pills on me?"
 "What a load of shit."
 r "I still don't like you, you know that?"
-show riley neutral
+show riley arms normal nude neutral
 r "I'm only doing this because I signed that contract, all right?"
 r "I don't have to like it, just follow orders."
 l "..."
@@ -55,7 +55,7 @@ r "You want me to take this? Fine."
 r "Anything else?"
 l "Let's go back to that place where you took a shower."
 l "It's designed as a testing chamber, so you'll be doing a few experiments here."
-show riley shrug
+show riley arms normal nude shrug
 r "Fine. Whatever."
 #transition
 scene bg_text_chamber
@@ -93,7 +93,9 @@ r "Change myself…"
 "..."
 r "Hmm... let me try that again."
 "I focus again, this time concentrating on how my breasts will fill and swell."
-"I start feeling hot."
+"How good they'll feel."
+"Soft and erotic."
+"Suddenly, I start feeling hot."
 "And then..."
 scene cg_video2
 r "Ah!"
@@ -106,12 +108,12 @@ r "Shit..."
 "They're huge. Massive, enormous tits."
 l "Ah, that's quite the result. Amazing..."
 "Lily excitedly taps on her tablet, presumably taking notes about my brand new tits."
-"I think that's what the pill was for. Did Lily make something that can change someone's body with a thought?"
+"I think that's what the pill was for. Did Lily make something that can change someone's body?"
 l "Okay, we can stop for today. Let's get out of here."
 #transition to bg_lily_lab
 scene bg_lily_lab
 show lily surprise at center_right
-show riley boobembarassed at center_left
+show riley arms bigboobs nude embarassed at center_left
 r "W-What was in that pill?!?"
 r "What did you do to my tits?"
 l "The exact formula is something I can't disclose to you."
@@ -119,7 +121,7 @@ l "But just know that when the pill is consumed, it accelerates your natural bio
 r "Whatever. All right, I'm ready to be changed back. There's a way to reverse this, right?"
 l "..."
 "She pulls out her tablet and taps a few buttons."
-l "Frank? I have a patient that needs breast reduction surgery..."
+l "Fran? I have a patient that needs breast reduction surgery..."
 r "WOAH WOAH WAIT, WHAT?!?"
 l "Ah, belay that for a second."
 r "What about your pills? Can't I just take one and it'll make my breasts return to normal?"
@@ -128,12 +130,12 @@ l "Didn't you hear me? Your natural biological state was accelerated."
 l "Basically, the pill hit fast-forward on your breast size, and you controlled when they stopped."
 l "You can't reverse something like that, unless you can reverse entropy, too."
 l "Those are permanent, unless you decide to go under the knife."
-show riley boobmadcrossed
+show riley arms bigboobs nude mad
 r "..."
 r "You could have warned me."
 show lily neutral
 l "Unfortunately, that would have invalidated the experiment. Remember that video? The subject needs to be unaware in order to maximize the effect."
-show riley boobneutralcrossed
+show riley arms bigboobs nude neutral
 "I sigh."
 r "I'd be lying if I said I didn't always want bigger tits."
 r "I guess... I'll deal with it for now."

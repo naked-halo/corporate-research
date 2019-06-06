@@ -13,90 +13,75 @@ define video = Character("Video")
 
 #Define sprites
 
-#Riley Normal (No changes)
-image riley neutral = "/images/sprites/riley/r_neutral.png"
-image riley sad = "/images/sprites/riley/r_neutral.png"
-image riley embarassed = "/images/sprites/riley/r_neutral.png"
-image riley smile = "/images/sprites/riley/r_neutral.png"
-image riley question = "/images/sprites/riley/r_neutral.png"
-image riley mad = "/images/sprites/riley/r_neutral.png"
-image riley nervous = "/images/sprites/riley/r_neutral.png"
-image riley shrug = "/images/sprites/riley/r_neutral.png"
-image riley surprise = "/images/sprites/riley/r_neutral.png"
+# Sprites are given definitions as follows:
+# Pose -> Body type -> Clothing -> Head -> Expression
 
-#Riley w/ Bigger breasts
-image riley boobneutral = "/images/sprites/riley/r_neutral.png"
-image riley boobsmile = "/images/sprites/riley/r_neutral.png"
-image riley boobsad = "/images/sprites/riley/r_neutral.png"
-image riley boobembarassed = "/images/sprites/riley/r_neutral.png"
-image riley boobmad = "/images/sprites/riley/r_neutral.png"
-image riley booblaugh = "/images/sprites/riley/r_neutral.png"
-image riley boobneutralcrossed = "/images/sprites/riley/r_neutral.png"
-image riley boobsmilecrossed = "/images/sprites/riley/r_neutral.png"
-image riley boobsadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley boobmadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley booblaughcrossed = "/images/sprites/riley/r_neutral.png"
-image riley boobshrug = "/images/sprites/riley/r_neutral.png"
-image riley boobquestion = "/images/sprites/riley/r_neutral.png"
-image riley boobnervous = "/images/sprites/riley/r_neutral.png"
-image riley boobarousedpants = "/images/sprites/riley/r_neutral.png"
-image riley boobarousednipple = "/images/sprites/riley/r_neutral.png"
+#Riley Normal (B1)
+image riley arms normal nude neutral = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude smile = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E2.png", 0.30)
+image riley arms normal nude sad = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E3.png", 0.30)
+image riley arms normal nude mad = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude surprise = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E5.png", 0.30)
+image riley arms normal nude embarassed = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude nervous = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude question = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude shrug = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude pout = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude laugh = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude nervous = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E1.png", 0.30)
+image riley arms normal nude smirk = im.FactorScale("/images/sprites/riley/B1/RileyP0-B1-C0-H1-E14.png", 0.30)
+image riley raised normal nude neutral = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E1.png", 0.30)
+image riley raised normal nude smile = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E2.png", 0.30)
+image riley raised normal nude sad = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E3.png", 0.30)
+image riley raised normal nude mad = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E1.png", 0.30)
+image riley raised normal nude surprise = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E5.png", 0.30)
+image riley raised normal nude question = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E1.png", 0.30)
+image riley raised normal nude smirk = im.FactorScale("/images/sprites/riley/B1/RileyP5-B1-C0-H1-E14.png", 0.30)
 
-#Riley w/ Bigger breasts + Pregnancy(small)
-image riley smallpregneutral = "/images/sprites/riley/r_neutral.png"
-image riley smallpregsmile = "/images/sprites/riley/r_neutral.png"
-image riley smallpregsad = "/images/sprites/riley/r_neutral.png"
-image riley smallpregembarassed = "/images/sprites/riley/r_neutral.png"
-image riley smallpregmad = "/images/sprites/riley/r_neutral.png"
-image riley smallpreglaugh = "/images/sprites/riley/r_neutral.png"
-image riley smallpregneutralcrossed = "/images/sprites/riley/r_neutral.png"
-image riley smallpregsmilecrossed = "/images/sprites/riley/r_neutral.png"
-image riley smallpregsadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley smallpregmadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley smallpreglaughcrossed = "/images/sprites/riley/r_neutral.png"
-image riley smallpregshrug = "/images/sprites/riley/r_neutral.png"
-image riley smallpregquestion = "/images/sprites/riley/r_neutral.png"
-image riley smallpregnervous = "/images/sprites/riley/r_neutral.png"
-image riley smallpregarousedpants = "/images/sprites/riley/r_neutral.png"
-image riley smallpregarousednipple = "/images/sprites/riley/r_neutral.png"
+#Riley w/ Bigger breasts (B2)
+image riley arms bigboobs nude neutral = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E1.png", 0.30)
+image riley arms bigboobs nude smile = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E2.png", 0.30)
+image riley arms bigboobs nude sad = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E3.png", 0.30)
+image riley arms bigboobs nude mad = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E1.png", 0.30)
+image riley arms bigboobs nude surprise = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E4.png", 0.30)
+image riley arms bigboobs nude embarassed = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E1.png", 0.30)
+image riley arms bigboobs nude smirk = im.FactorScale("/images/sprites/riley/B2/RileyP0-B2-C0-H1-E14.png", 0.30)
+image riley raised bigboobs nude neutral = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E1.png", 0.30)
+image riley raised bigboobs nude smile = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E2.png", 0.30)
+image riley raised bigboobs nude sad = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E3.png", 0.30)
+image riley raised bigboobs nude mad = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E1.png", 0.30)
+image riley raised bigboobs nude surprise = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E4.png", 0.30)
+image riley raised bigboobs nude embarassed = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E1.png", 0.30)
+image riley raised bigboobs nude smirk = im.FactorScale("/images/sprites/riley/B2/RileyP5-B2-C0-H1-E14.png", 0.30)
 
-#Riley w/ Bigger breasts + Pregnancy(big)
-image riley bigpregneutral = "/images/sprites/riley/r_neutral.png"
-image riley bigpregsmile = "/images/sprites/riley/r_neutral.png"
-image riley bigpregsad = "/images/sprites/riley/r_neutral.png"
-image riley bigpregembarassed = "/images/sprites/riley/r_neutral.png"
-image riley bigpregmad = "/images/sprites/riley/r_neutral.png"
-image riley bigpreglaugh = "/images/sprites/riley/r_neutral.png"
-image riley bigpregneutralcrossed = "/images/sprites/riley/r_neutral.png"
-image riley bigpregsmilecrossed = "/images/sprites/riley/r_neutral.png"
-image riley bigpregsadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley bigpregmadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley bigpreglaughcrossed = "/images/sprites/riley/r_neutral.png"
-image riley bigpregshrug = "/images/sprites/riley/r_neutral.png"
-image riley bigpregquestion = "/images/sprites/riley/r_neutral.png"
-image riley bigpregnervous = "/images/sprites/riley/r_neutral.png"
-image riley bigpregarousedpants = "/images/sprites/riley/r_neutral.png"
-image riley bigpregarousednipple = "/images/sprites/riley/r_neutral.png"
+#Riley w/ Bigger breasts + Pregnancy (B3)
+image riley arms smallpreg nude neutral = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E1.png", 0.30)
+image riley arms smallpreg nude smile = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E2.png", 0.30)
+image riley arms smallpreg nude sad = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E3.png", 0.30)
+image riley arms smallpreg nude mad = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E1.png", 0.30)
+image riley arms smallpreg nude surprise = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E5.png", 0.30)
+image riley arms smallpreg nude embarassed = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E1.png", 0.30)
+image riley arms smallpreg nude smirk = im.FactorScale("/images/sprites/riley/B3/RileyP0-B3-C0-H1-E14.png", 0.30)
 
-#Riley w/ Bigger breasts + Pregnancy(big) + lactation
-image riley pregmilkneutral = "/images/sprites/riley/r_neutral.png"
-image riley pregmilksmile = "/images/sprites/riley/r_neutral.png"
-image riley pregmilksad = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkembarassed = "/images/sprites/riley/r_neutral.png"
-image riley pregmilklaugh = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkneutralcrossed = "/images/sprites/riley/r_neutral.png"
-image riley pregmilksmilecrossed = "/images/sprites/riley/r_neutral.png"
-image riley pregmilksadcrossed = "/images/sprites/riley/r_neutral.png"
-image riley pregmilklaughcrossed = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkshrug = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkquestion = "/images/sprites/riley/r_neutral.png"
-image riley pregmilknervous = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkarousedpants = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkarousednipple = "/images/sprites/riley/r_neutral.png"
-image riley pregmilkpouthold = "/images/sprites/riley/r_neutral.png"
-image riley pregmilksadhold = "/images/sprites/riley/r_neutral.png"
+#Riley w/ Bigger breasts + Pregnancy (B4)
+image riley arms medpreg nude neutral = im.FactorScale("/images/sprites/riley/B4/RileyP0-B4-C0-H1-E1.png", 0.30)
+image riley arms medpreg nude smile = im.FactorScale("/images/sprites/riley/B4/RileyP0-B4-C0-H1-E2.png", 0.30)
+image riley arms medpreg nude sad = im.FactorScale("/images/sprites/riley/B4/RileyP0-B4-C0-H1-E3.png", 0.30)
+image riley arms medpreg nude mad = im.FactorScale("/images/sprites/riley/B4/RileyP0-B4-C0-H1-E1.png", 0.30)
+image riley arms medpreg nude surprise = im.FactorScale("/images/sprites/riley/B4/RileyP0-B4-C0-H1-E5.png", 0.30)
+image riley arms medpreg nude embarassed = im.FactorScale("/images/sprites/riley/B4/RileyP0-B4-C0-H1-E1.png", 0.30)
+image riley arms medpreg nude smirk = im.FactorScale("/images/sprites/riley/B4/RileyP0-B2-C0-H1-E14.png", 0.30)
 
-#Riley w/ Bigger breasts + Addl. Fat
+#Riley w/ Bigger breasts + Pregnancy (B5) + lactation
+image riley arms bigpreg nude neutral = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E1.png", 0.30)
+image riley arms bigpreg nude smile = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E2.png", 0.30)
+image riley arms bigpreg nude sad = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E3.png", 0.30)
+image riley arms bigpreg nude mad = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E1.png", 0.30)
+image riley arms bigpreg nude surprise = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E4.png", 0.30)
+image riley arms bigpreg nude embarassed = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E1.png", 0.30)
+image riley arms bigpreg nude smirk = im.FactorScale("/images/sprites/riley/B5/RileyP0-B5-C0-H1-E14.png", 0.30)
+
+#Riley w/ Addl. Fat (B6)
 image riley fatboobneutral = "/images/sprites/riley/r_neutral.png"
 image riley fatboobsmile = "/images/sprites/riley/r_neutral.png"
 image riley fatbooblaugh = "/images/sprites/riley/r_neutral.png"
@@ -108,7 +93,7 @@ image riley fatboobquestion = "/images/sprites/riley/r_neutral.png"
 image riley fatboobsurprised = "/images/sprites/riley/r_neutral.png"
 image riley fatboobsmirk = "/images/sprites/riley/r_neutral.png"
 
-#Riley w/ Bigger breasts + Addl. Fat + Penis
+#Riley w/ Addl. Fat + Penis (B7)
 image riley fatfutaneutral = "/images/sprites/riley/r_neutral.png"
 image riley fatfutasmile = "/images/sprites/riley/r_neutral.png"
 image riley fatfutasad = "/images/sprites/riley/r_neutral.png"
@@ -126,7 +111,7 @@ image riley fatfutaarousednipple = "/images/sprites/riley/r_neutral.png"
 image riley fatfutasmilepenis = "/images/sprites/riley/r_neutral.png"
 image riley fatfutalipspenis = "/images/sprites/riley/r_neutral.png"
 
-#Lily Normal (No changes)
+#Lily Normal (B1)
 image lily neutral = "/images/sprites/lily/l_neutral.png"
 image lily frown = "/images/sprites/lily/l_neutral.png"
 image lily surprised = "/images/sprites/lily/l_neutral.png"
@@ -138,7 +123,7 @@ image lily smallsmilehips = "/images/sprites/lily/l_neutral.png"
 image lily inhaleecig = "/images/sprites/lily/l_neutral.png"
 image lily exhaleecig = "/images/sprites/lily/l_neutral.png"
 
-#Lily + Penis
+#Lily + Penis (B2)
 image lily futaneutral = "/images/sprites/lily/l_neutral.png"
 image lily futafrown = "/images/sprites/lily/l_neutral.png"
 image lily futasurprised = "/images/sprites/lily/l_neutral.png"
@@ -158,6 +143,8 @@ image cg_boobjob_2 = im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5)
 image cg_boobjob_3 = im.FactorScale("/images/cg/cg_boobjob_3.png", 0.5)
 image cg_boobjob_4 = im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5)
 image cg_boobjob_5 = im.FactorScale("/images/cg/cg_boobjob_5.png", 0.5)
+image cg_boobjob_6 = im.FactorScale("/images/cg/cg_boobjob_6.png", 0.5)
+image cg_boobjob_7 = im.FactorScale("/images/cg/cg_boobjob_7.png", 0.5)
 
 #Define transforms
 transform common(x = 0):
@@ -195,9 +182,13 @@ transform center_left:
 #Define transitions
 define titjobdissolve = MultipleTransition([
 False, Dissolve (0.4),
-im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (1.5),
-im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (1.0),
-im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (1.5),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_boobjob_5.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_boobjob_5.png", 0.5), Dissolve (0.7),
 True])
 
 # The game starts here.

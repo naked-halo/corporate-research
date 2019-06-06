@@ -7,7 +7,7 @@ woman "Here you go."
 # cardswipe sfx
 # dooropen sfx
 scene bg_quarters
-show riley neutral at center_left
+show riley arms normal nude neutral at center_left
 show lily neutral at center_right
 "The room is small. Cramped. 'Cozy' would be the absolute nicest thing someone would call it."
 "A bed occupies one side of the room, with a wall-mounted TV and tiny coffee table on the other."
@@ -32,34 +32,34 @@ l "Welcome aboard, Riley."
 hide lily
 "Before I can say anything else, Lily nods her head and leaves."
 "That's it. I'm all alone now."
-show riley sad
+show riley arms normal nude sad
 r "Shit…"
 "It takes all of my remaining energy to collapse into the bed nearby."
 "I'm dragged into here and treated as barely human, and on top of it all, I have to work for someone who's as unreadable as a brick wall."
-show riley nervous
+show riley arms normal nude nervous
 "And those… experiments… what the hell is going to happen to me?"
-show riley sad
+show riley arms normal nude sad
 "With no energy left, I cry myself to sleep."
 #clockwipe to black
 #clockwipe to bg_quarters
 scene bg_quarters
 #alarm sfx
 "Ahh, that was just a bad dream. A horrible, horrible dream."
-show riley sad at centered
+show riley arms normal nude sad at centered
 "..."
 "Fuck. It wasn't."
 "The tiny room lights up a little bit as I get out of the bed."
 "I try to go through as much of a normal morning routine as I can: washing my face, brushing my teeth (with the world's smallest toothbrush), and ordering some food from the app on my tablet."
-show riley neutral
+show riley arms normal nude neutral
 "Surprisingly, the bagel I order slides out of a panel in the wall. It's even warmed up."
 r "Better than nothing..."
 #crossfade to bg_lily lab
 scene bg_lily_lab
 "I arrive just as the clock strikes seven. Perfect."
-show riley neutral at center_left
+show riley arms normal nude neutral at center_left
 show lily neutral at center_right
 l "Good morning, Riley."
-show riley mad
+show riley arms normal nude mad
 r "...Morning."
 l "Now that you're here, I need to prep you for today's experiment."
 r "Prep?"
@@ -69,7 +69,7 @@ show lily frown
 l "No, I'm saying that if you had a nasty contagion somewhere on your person, the experiments could make that worse."
 "Oh."
 l "I have to take these things seriously or all of my research is invalid."
-show riley sad
+show riley arms normal nude sad
 r "...I understand. Sorry."
 show lily neutral
 l "Shower room is to your left. Press the purple button when you get in there, please."
@@ -80,9 +80,9 @@ show riley question at centered
 r "How the hell do I start this thing?"
 #ringing sfx
 "A glowing panel catches my attention."
-show riley surprise
+show riley arms normal nude surprise
 "Oh, this must be the touchpad. Nice."
-show riley neutral
+show riley arms normal nude neutral
 r "Purple...purple…"
 "A button on the panel labeled 'Heavy Duty Cleanse' catches my eye. Sure enough, it's purple."
 "If I didn't know any better, I'd say that Lily has a very subtle sense of humor."
@@ -90,7 +90,7 @@ r "What am I, a car?"
 "Whatever. I'm delaying the inevitable by standing here."
 "The panel glows, starting up some motors behind the walls."
 "A panel pops out, with the text 'CLOTHING DEPOSIT' glowing on it."
-show riley nude_neutral
+show riley arms normal nude neutral
 "I strip down and put my clothes away. The panel retracts, with the text changing to 'CLEANING...' soon after."
 "Huh. Convenient."
 "Well, if this gonna be a hot shower, it better be a good one."
@@ -137,7 +137,7 @@ r "Hahh..."
 r "Time to face the music..."
 #timeskip
 scene bg_lily_lab
-show riley smile at center_left
+show riley arms normal nude smile at center_left
 show lily neutral at center_right
 "With my body and all of my clothes finally cleaned up, I head back and report to Lily for my assignment."
 l "All right. Looks like you've cleaned up nicely. You should be free of any trace of disease, so that'll eliminate any unforeseen consequences."
@@ -147,7 +147,7 @@ l "More or less."
 l "All right, now that you've been cleaned up…"
 show lily pill
 l "I'll need you to take one of these."
-show riley question
+show riley arms normal nude question
 r "What, really? No injections or patches?"
 l "Chewable pills are easier for me to make, plus most of the stuff is already a dry ingredient."
 show lily smallsmile
@@ -161,7 +161,7 @@ r "Now what?"
 l "Just relax in your quarters for the rest of the morning. You got up early, so feel free to catch up on some shut eye."
 l "Once you get back I'll have another test for you to run."
 l "Oh, and make sure you have something to eat."
-show riley shrug
+show riley arms normal nude shrug
 r "All right. Suits me just fine."
 #clockwipe to bg_quarters
 scene bg_quarters

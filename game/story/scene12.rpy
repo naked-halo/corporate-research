@@ -9,7 +9,6 @@ label scene12:
     r "What was that? I can't hear you, Lily."
     l "...Yes."
     "I was expecting something more erotic, but it can't be helped."
-    "Lily's new to this whole 'having a penis' thing, after all."
     r "Well then, let's get started. Take off your clothes for me."
     l "W-well, um... do we have to do it here?"
     r "Got a place for us to go?"
@@ -76,6 +75,8 @@ label scene12:
     with dissolve
     r "There we go."
     "The head of her penis swells in my mouth, the tip leaking precum."
+    show cg_boobjob_6
+    with dissolve
     r "Mmm, that's much better, isn't it?"
     r "My tits around your cock, and my mouth on the very tip?"
     l "Hah... yes, it's good."

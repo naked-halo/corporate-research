@@ -60,15 +60,15 @@ label real_start:
  woman "Here, let's get you in a more comfortable position."
  scene bg_interrogation
  "The lights go out and I can finally make out who my interrogator is."
- show riley sad at center_left
+ show riley arms normal nude sad at center_left
  show lily neutral at center_right
  "There's a strange circle around this woman's head, and are those..."
  woman "Yes, they're real. No, you can't touch them."
- show riley surprise
+ show riley arms normal nude surprise
  r "Shit. What is this..."
  woman "Now. I can offer you an alternative to prison time."
  woman " Should you accept, you'll be working for me in my laboratory as an assistant and test subject."
- show riley question
+ show riley arms normal nude question
  r "Test subject? For what?"
  show lily smallsmile
  woman "That's classified for now."
@@ -84,16 +84,16 @@ label real_start:
  r "...Gimme a minute."
  "Well, she's not really giving me any choice here. 25 years in jail sucks ass."
  "At this point it's just a formality. She already has what she wants - me."
- show riley shrug
+ show riley arms normal nude mad
  r "All right. Fine. You win."
  "I grab the pen and sign my name on the paper."
- show riley neutral
+ show riley arms normal nude neutral
  "..."
  "Huh. And here I thought it was going to glow or magically bind my soul or something."
  "But I'm... fine?"
  show lily neutral
  woman "Is there a problem?"
- show riley mad
+ show riley arms normal nude mad
  r "Several."
  woman  "Such as?"
  r "Why bother with all of this? You could have just kept me strapped to a chair and asked me to do whatever, right?"
@@ -115,7 +115,7 @@ label real_start:
  "I don't really have any other choice, so I follow her as she exits the room."
  scene bg_lily_lab
  "I'm lead through what feels like the world's largest cubicle farm and past some big doors."
- show riley neutral at center_left
+ show riley arms normal nude neutral at center_left
  show lily neutral at center_right
  woman  "Welcome to my laboratory."
  r "Your laboratory?"

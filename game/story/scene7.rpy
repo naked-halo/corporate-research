@@ -5,10 +5,10 @@ label scene7:
     l "Yes. Sometime after the first major population of Homo Sapiens was already on the planet, Our Progenitor made us based off of your genetic template."
     l "From what we understand we were meant to be a significant improvement over humans."
     l "However, humans have changed so radically over the past few millennia in terms of intellect that now that gap is significantly smaller."
-    show riley maternity_medpreg_smile at center_left
+    show riley arms medpreg maternity smile at center_left
     show lily smile at center_right
     l "Heh, well said."
-    show riley maternity_medpreg_question
+    show riley arms medpreg maternity question
     r "So who exactly is this Progenitor? God?"
     l "If you're talking about the biblical God... kind of."
     l "Our records indicate that Our Progenitor started influencing things here on Earth about 250,000 years ago."
@@ -17,14 +17,14 @@ label scene7:
     l "Mars and Venus, you mean? They were already at their current state when they arrived."
     l "Completely uninhabitable."
     l "It seems Earth was an ideal testing ground for Our Progenitor, with a wide variety of life, and one species that deserved attention."
-    show riley maternity_medpreg_surprise
+    show riley arms medpreg maternity surprise
     r "Humans?"
     l "That's right. Your species has the uncanny ability to adapt to any living condition."
     l "Coupled with your high intelligence, you were poised to become the dominant species of the entire planet."
     l "However, Earth was not a kind home for you."
-    show riley maternity_medpreg_neutral
+    show riley arms medpreg maternity neutral
     l "Droughts and other natural disasters were bottlenecking your species, and extinction was likely without intervention."
-    l "So Our Progenitor decided to give things a little push in the right direction."
+    l "So, Our Progenitor decided to give things a little push in the right direction."
     r "Like what?"
     l "Well, a few dozen millenia later, humans were encouraged to move out of Africa and into other parts of the world."
     l "At the same time, angels were created from a few select humans as a means to assist."
@@ -44,11 +44,11 @@ label scene7:
     r "So all of your work is going to manipluate what your creator built on? Doesn't that come with risks?"
     show lily neutral
     l "A lot. For one, it could degrade our DNA even further and cause us all sorts of problems."
-    show riley maternity_medpreg_surprise
+    show riley arms medpreg maternity surprise
     "I blanch."
     r "Wait, then what about me?"
     l "Oh, don't worry. I've made sure that that particular scenario can't happen."
-    show riley casual_medpreg_neutral
+    show riley arms medpreg maternity smile
     r "Phew. Good."
     l "We have access to our genome so it's pretty easy to look at genes and figure out what needs to be modifed."
     l "Since the human genome is virtually identical, it was easy to test new medicaton on."
@@ -58,7 +58,7 @@ label scene7:
     "Lily nods."
     l "Hence why I picked you. You came to us at the perfect time."
     l "Thanks to you, what would have been at least 10 years of red tape was trimmed down to a few hours of paperwork."
-    show riley maternity_medpreg_question
+    show riley crossed medpreg maternity neutral
     r "You're welcome, I guess?"
     l "Speaking of, I'll have the next experiments ready after your next growth spurt. I'll keep monitoring you in the meantime."
     r "Well, anything else on the menu today?"
@@ -66,26 +66,26 @@ label scene7:
     r "All right."
     l "With all of the data I have on you, I'll be developing a new pill for you to try."
     l "After your next growth spurt you'll be testing their effectiveness."
-    show riley maternity_medpreg_neutral
+    show riley crossed medpreg maternity neutral
     r "These better not make me grow a penis."
     l "Don't tell me you're still hung up on that?"
     l "I'm still a ways off on making a pill that can modify genitalia to that degree."
     l "I think at the most, you'd just be making your current genitalia much bigger."
-    show riley maternity_medpreg_shrug
+    show riley arms medpreg maternity shrug
     r "My junk's plenty big, so I'll pass."
     l "Suit yourself. Well, see you tomorrow!"
     #timeskip
     scene bg_riley_quarters
-    show riley maternity_medpreg_neutral
+    show riley arms medpreg maternity neutral
     "Bigger genitalia aside, it sounds like Lily has a reason for me to be here."
     "While at first I thought I'd just be testing drugs, the fact that Lily needs me in order to solve an issue her entire race has been struggling with is kind of interesting."
-    show riley maternity_medpreg_belly_smile
+    show riley hold medpreg maternity smile
     "If anything, it makes carrying this thing a bit more bearable."
     r "Jeez, everything looks smaller now."
     "Being pregnant for 15 months... Hopefully I don't get too much bigger."
     "Still..."
     #undress sequence
-    show riley underwear_medpreg_belly_smile
+    show riley hold medpreg underwear smile
     "I can't deny that I feel pretty sexy right now."
     "Maybe it's the feeling of relief that I'm able to help Lily and her people out instead of just being a guinea pig."
     "Regardless, I think I'll try to enjoy this pregnancy now."
@@ -104,16 +104,16 @@ label scene7:
     "All the stuff you normally hear about pregnancy - the nausea, the mood swings, and even stuff like lactation - haven't happened."
     "I guess I could call myself lucky..."
     r "Ugh. Fuck."
-    "I groan as I realize that I'm stuck this way for another 12 months."
+    "I groan as I realize that I'm stuck this way for another six months."
     "Seriously, if I ever meet the angel who requested this design..."
     "..."
     "Whatever."
     "Before I can wallow in my own self-pity, I decide to heave my body over to the shower and get ready to head to the lab."
     #timeskip
-    show riley bigpreg_hold_frown at centered
+    show riley arms bigpreg maternity frown at centered
     r "Wow, I still can't believe how big this thing is."
     "Out of habit, I massage my pregnant belly as I walk around the small living space I've been given."
-    show riley bigpreg_hold_neutral
+    show riley hold bigpreg maternity smile
     "It's oddly soothing."
     "Maybe it's the dopamine?"
     #timeskip
@@ -135,8 +135,8 @@ label scene7:
     r "At the very least I'd like to see if you could make different strains of this stuff."
     r "Different gestation length, for starters."
     show bg_lily_lab
-    show riley maternity_bigpreg_neutral
-    show lily smile
+    show riley arms bigpreg maternity neutral at center_left
+    show lily smile at center_right
     l "Well, that's it for this examination."
     l "Remember what I said during your last growth spurt?"
     show lily smile_pill
@@ -152,7 +152,7 @@ label scene7:
     r "Like...?"
     l "Can't tell you, that --"
     r "Would impact the experiment. Gotcha."
-    show riley maternity_bigpreg_shrug
+    show riley arms bigpreg maternity shrug
     "I take the pill from her hand and start chewing."
     "Huh, this one tastes like chocolate."
     r "Why chocolate?"
@@ -180,12 +180,13 @@ label scene7:
     #transition
     scene bg_arco_food
     show lily smile
-    show riley maternity_bigpreg_smile
+    show riley arms bigpreg maternity smile
     r "Why didn't you tell me you had a burger joint?"
     "I happily munch down on a thick, juicy hamburger."
     "God, it's been so long since I had something so fatty."
     l "Meat's hard to come by here. We mostly grow it in the lab, but it takes a long time."
     l "It's around this time of the year that a new crop of meat is released."
+    show riley arms bigpreg maternity question
     r "That's so weird. Why do it that way?"
     l "It's better than importing foreign meats into the arcology, and we can control how much we produce."
     r "I'm impressed something this big came out of a petri dish."
@@ -204,12 +205,12 @@ label scene7:
     "I'm so warm..."
     "Even after becoming pregnant, I can't help but feel at peace right now."
     show lily surprise
-    show riley maternity_bigpreg_milk_smile
+    show riley arms bigpreg maternity smile
     l "Riley! Your shirt!"
     r "What? Did I drip some ketchup on there or..."
     r "Oh geez, is this sweat or..."
     r "Uh..."
-    show riley maternity_bigpreg_milk_surprise
+    show riley arms bigpreg maternity surprised
     "As I grab my shirt, I feel it."
     "Something coming out of my breasts."
     r "I'm lactating?!?"
@@ -221,7 +222,7 @@ label scene7:
     "But... not before I wolf down the rest of the burger."
     #transition
     scene bg_lily_lab
-    show riley maternity_bigpreg_milk_embarassed
+    show riley arms bigpreg maternity embarassed
     show lily neutral
     l "I can't believe that I missed that factor."
     l "It makes sense, though. Your body probably needed some extra calories in your system before any more changes could happen."
@@ -257,21 +258,23 @@ label scene7:
     #transition
     scene bg_test_chamber_milk
     "Inside the test chamber this time is a pair of milking pumps dangling from the ceiling."
-    "They look a lot like the industrial milkers attached to cows..."
-    r "Hey, wait a minute. Just because I have these big things doesn't mean you have to treat me like one!"
-    l "They're all we have on file. Angel's haven't needed to lactate for at least 12,000 years."
+    "They look a lot like the industrial milkers attached to..."
+    r "Hey, wait a minute. Just because I have these big things doesn't mean you have to treat me like a cow!"
+    l "These kinds of pumps are all we have on file. Angel's haven't needed to lactate for at least 12,000 years."
     r "Ah. I guess that makes sense."
-    r "So this is all you have?"
+    r "I just hope you know what you're doing here."
     l "Don't worry, it's not going to go at full speed. I can control them with the tablet."
     r "All right."
     #undressing sequence
-    show riley nude_bigpreg_milk_frown
+    show riley arms bigpregmilk nude sad
     "My nipples have darkened a lot in just a few hours."
-    "Well, I already have the belly, so I might as well accept the new nipples I've got."
+    "Well, I already have the huge belly, so I might as well accept the new nipples I've got."
     "Now it would be really hard to claim that I'm not pregnant."
+    "No one would be able to tell, unless they had an ultrasound machine."
     l "Ready?"
     show cg_milking_1
-    "She guides me into the milking chair, where I can rest while still partially standing."
+    "She guides me into the milking chair, where I can rest my legs."
+    "It feels like I'm floating; the chair seems to be designed to keep the weight off of my legs and while keeping me comfortable."
     l "Wait here, I'll attach the pumps to you."
     "As she sets up, my heartbeat begins to start increasing."
     "I'm... going to be milked."
@@ -308,9 +311,37 @@ label scene7:
     "Almost unconsciously, I start reaching down to masturbate, lost to the sensations."
     l "Riley! What are you doing?!?"
     r "H-huh?!?"
-    "Lily snaps me out of my erotic display."
+    "Lily snaps me out of my erotic fugue."
     l "Are you sure you're okay?"
     r "Y-yeah, I'm fine. This um... really feels good."
     l "...I see."
+    l "Do you need any, um, help?"
+    r "If you know how to work your fingers down there, I'm not opposed to you helping out at this point."
+    r "Hell, you've touched me down there, so it's not like it'll be weird or anything."
+    l "..."
+    l "Just let me know if you want me to stop, okay?"
+    show cg_milking_6
+    "Lily starts by moving her hands down to my groin, gingerly touching my clit."
+    "It's not much, but in my aroused state even a slight touch is enough to make me react."
+    r "Hahh... good, right there..."
+    "My vocalizations seem to spur Lily into action."
+    "She spreads her fingers up and down my labia, stroking my clit all the while."
+    "Wow, I can't remember anyone else being this good with their hands."
+    l "How are you doing?"
+    r "I'm... doing good. Keep going, please."
+    "She smiles and continues."
+    "Now a little more confident, she starts fingering me."
+    "It doesn't take her long to find my g-spot, causing me to squirm in my chair."
+    "My breathing gets more and more labored as Lily brings me closer to orgasm."
+    "The sensation of the milk being drained from my tits is driving me crazy, too."
+    r "Uuuh..."
+    "My head's spinning. I can't think straight anymore."
+    "I'm not even in control of my body anymore. I can feel my pussy clamping down on Lily's slender fingers."
+    r "Lily... I'm..."
+    show cg_milking_7
+    "Moments later, I climax."
+    r "Uhh! Uhhhhhhh!"
+    "My vision goes blank as I cum."
+    "My body goes limp, and I slump into the chair, lacking the energy to continue."
 
     jump scene8
