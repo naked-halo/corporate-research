@@ -339,7 +339,6 @@ label scene7:
     "I'm not even in control of my body anymore. I can feel my pussy clamping down on Lily's slender fingers."
     r "Lily... I'm..."
     show cg_milking_7
-    "Moments later, I climax."
     r "Uhh! Uhhhhhhh!"
     "My vision goes blank as I cum."
     "My body goes limp, and I slump into the chair, lacking the energy to continue."

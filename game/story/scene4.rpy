@@ -46,7 +46,7 @@ r "Decades? Don't you guys have super technology? There's no way you built this 
 l "In some aspects we certainly have some better tech. But on average, we're maybe only about 60 or so years ahead of human technology."
 l "Humans are incredibly good at innovating with limited resources, and that's why your species has survived for so long."
 l "Angels, on the other hand, are stronger, more durable, and functionally immortal."
-l "We've been spoiled in that regard, so we lost our need to innovate."
+l "We've been spoiled in that regard, so we've lost our need to innovate."
 l "For the most part we've been piggybacking off of humanity's triumphs and making them better."
 show riley crossed bigboobs normal laugh
 r "Wow, never expected angels to be lazy."
@@ -91,6 +91,7 @@ r "Fair enough."
 r "So, where's this clothing store?"
 "Lily points at a corner of the street we're walking on."
 l "Just at the end there. We'll get something that fits your new…"
+"For some reason, she hesitates."
 r "Go on, you can say it."
 show lily embarrassed
 l "Something that fits… your new breasts."
@@ -102,6 +103,7 @@ show riley breastlift bigboobs normal smirk
 l "I-it's not like that!"
 show riley breastlift bigboobs normal laugh
 r "Suuuure it is."
+"Well, it didn't take long to find her weakness."
 #timeskip
 scene bg_hallway
 "There were a variety of bras, but I elected for one that could support my back a bit better."
@@ -111,7 +113,7 @@ r "Whew, this is so much better."
 show riley breastlift bigboobs normal laugh
 r "Who knew that breasts would be so hefty?"
 "Lily also took the time to help me with a new outfit. Now that I'm bustier, she suggested that I get some new clothes to match, courtesy of her."
-"I'm not one for fashion - heck, I barely go outside - but I have to admit, this looks pretty good on me."
+"I'm not one for fashion - heck, I only really go outside for parties - but I have to admit, this looks pretty good on me."
 l "Glad you think so."
 show riley crossed bigboobs normal neutral
 r "All right, what's on the agenda for tomorrow?"
