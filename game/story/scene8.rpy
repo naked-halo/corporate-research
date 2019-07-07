@@ -129,9 +129,10 @@ label scene8:
     "Oh yeah, that's the whole reason she grew a penis in the first place."
     "After a moment, she pulls the beaker away, full of her semen."
     r "You came a lot. Did you really like fucking me that much?"
-    l "I can't argue with the evidence here."
+    l "I... can't argue with the evidence here."
     r "Well, for your first time..."
     r "Not bad."
+    l "Um, well. That will be all for today."
     #timeskip
     scene bg_riley_quarters
     "Whew, what a day."
