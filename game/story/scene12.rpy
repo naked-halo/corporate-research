@@ -1,4 +1,20 @@
 label scene12:
+    # r "I think I'll take you up on that pill offer."
+    # show lily question
+    # l "Um, are you sure? Did you want to lose the weight now?"
+    # r "Nah. I have a much better idea."
+    # show riley laugh
+    # r "Make me a futanari, Lily!"
+    # show lily surprise
+    # "Her eyes widen in surprise."
+    # l "Are you sure, Riley? I haven't even tested to make sure these work on humans yet..."
+    # show riley smirk
+    # r "I trust you. Besides, we have mostly the same DNA. I think it'll work just fine."
+    # l "Um... Okay."
+    # hide lily
+    # "She zips in and out of the testing room."
+    # show lily pill_red
+    # l "All right. Here it is."
     show riley causal_fat_smirk at center_left
     show lily embarassed at center_right
     "It isn't too hard to tell what Lily's thinking."
@@ -43,6 +59,8 @@ label scene12:
     "She does as I command as I begin to pour the clear lube on my tits."
     l "Wait, what are you doing?"
     r "Isn't it obvious? I'm giving you a titjob."
+    r "I've never done one of these before, but now that I'm not pregnant anymore..."
+    r "...I think I can make this enjoyable for the both of us."
     show cg_boobjob_1
     "I lie down and position myself in front of Lily's cock."
     r "Like what you see?"
@@ -89,4 +107,35 @@ label scene12:
     l "I never thought I'd love this so much!"
     show cg_boobjob_3
     "It's really easy to make her react. Cocks are much, much easier to get going, it seems."
+    show cg_boobjob_6
+    with dissolve
+    "Speaking of, she's getting quite excited. I can feel her twitching more and more between me."
+    r "Mmm, I can feel you, Lily."
+    r "So good. So... hot."
+    "Lily gasps as she tries to stop herself from going over the edge."
+    show cg_boobjob_1
+    with titjobdissolve
+    l "Unh... Riley..."
+    "Her expression is priceless right now. She's still resisting."
+    "But, well, I know her weaknesses now."
+    "We've been having a lot of sex as of late, so I'm used to all of the details of her cock."
+    "Her sensitive spots just under the glans."
+    "And that one spot near the balls that, if I move my tits just right..."
+    show cg_boobjob_7
+    with dissolve
+    l "Ah! Ahhhh!"
+    r "There we go... Just let it all out..."
+    "Lily cums pretty much whenever I want her to at this point."
+    "Her semen is nice and thick, too. Helps that she's on a great diet that makes her cum more."
+    "It's at this point where I'd normally leave things be, but..."
+    scene bg_testing_table
+    show lily nude futa neutral
+    show riley nude futa smile
+    r "Hey, Lily."
+    l "Yeah?"
+    r "You want more? I've still got some steam to blow off."
+    show lily nude futa smile
+    l "I was actually gonna say the same thing, actually."
+    r "Well, allow me to continue, then. Want to see me riding you?"
+
     jump scene13

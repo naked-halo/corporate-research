@@ -1,5 +1,5 @@
 label scene8:
-    "Wiping off the sweat and remaining milk from a hot shower, I carefully put on my clothes and re-join Lily in the lab."
+    "Wiping off the water and remaining drops of milk from my hot bath, I carefully put on my clothes and re-join Lily in the lab."
     show lily smile
     l "Perfect timing, Riley."
     show lily pill_red
@@ -14,26 +14,58 @@ label scene8:
     show riley maternity_bigpreg_smirk
     r "Really? You guys don't need to test this on other guinea pigs like myself?"
     l "Normally, yes. But I'm confident that this will work."
+    l "But... I think this should wait until tomorrow."
+    l "You're clearly tired, so I think you should take the rest of the day off."
+    l "Besides, you've provided me with some important research data, so I can analyze this instead."
+    r "Sure, sounds good. See you later, Lily."
+    hide lily
+    hide riley
+    show bg_riley_quarters
+    show riley maternity_bigpreg_smirk
+    "Wow. That was quite the experience."
+    "So I guess I can lactate now? I guess I'll have to be careful with the clothes I'm wearing."
+    "Well, this should only last as long as I want to, right?"
+    "If don't have a need to milk myself, things will probably dry up in a few weeks."
+    "Still, after getting over the initial shock, it's kind of fascinating."
+    "Lily's powers can do so much for medical science; my new body is proof of that."
+    "I wonder how many years it'll take for humans to get this kind of tech?"
+    #long timeskip
+    "The next morning comes around, and with it, another experiment."
+    "Normally this is where I'd sigh and play my part, but this time Lily is the one getting experimented on."
+    "I'm kind of interested in what'll happen to her with those pills."
+    show bg_lily_lab
+    show lily_smile
+    "Lily is already here, fiddling with something on her tablet."
+    l "Ah, good morning! Did you sleep well?"
+    r "Slept fine, thanks."
+    show lily_pill
+    "Lily takes out the pill she showed me the other day."
+    l "Well, there's no time like the present."
+    r "You're really going through with this?"
+    l "It's been five years of research, all condensed into one of these pills."
+    show lily_neutral
+    l "I'm ready."
     l "Now hold on. I need to remove my pants."
-    show cg_lily_pillscene1
+    show riley maternity_bigpreg_surprise
     r "Woah!"
+    show cg_lily_pillscene1
     "In one smooth motion, she's removed her pants and underwear, showing off her bare crotch."
     l "Riley, I'll need you to take notes and record this next part for me."
     l "These changes require a lot of my concentration."
     r "O-On it!"
-    "I take her tablet and enable video recording."
+    "Distracted by her sudden nudity, I take her tablet and enable video recording."
     r "All set here. Go for it, Lily."
     l "Okay."
     show cg_lily_pill2
     "She swallows the pill without hesitation."
-    l "Not bad."
+    l "Cherry. Not bad."
     "Ten seconds pass."
     r "...Anything?"
     l "This might take some time. There's going to be a lot happening if this works."
     #timeskip
-    "A few tense moments later..."
+    "A few tense miuntes later..."
     l "Riley, I feel something. Focus the camera on my groin."
-    r "Okay!"
+    r "O-Okay!"
     show cg_lily_pillzoom1
     "I zoom in on her, making sure things are in focus."
     "Her clit's gotten a lot bigger. Plumper."
@@ -69,7 +101,7 @@ label scene8:
     l "Ah! Ahh!"
     show cg_lily_pillzoom7
     "With everything completed, Lily's body twitches and convulses."
-    "Her new cock gets rock hard, thobbing with heat and dripping precum."
+    "Her new cock gets rock hard, throbbing with heat and dripping precum."
     l "Hahh... hahh..."
     r "Lily? Everything okay?"
     show cg_lily_pillscene3
@@ -83,7 +115,8 @@ label scene8:
     "Geez, she's strong."
     "It isn't long before she takes off my clothes, too."
     r "Okay, okay! Get going before you make a mess."
-    "This is how all of those hentai get started, right?"
+    r "I've only got the one set of clothes..."
+    "This is how all of those futanari hentai get started, right?"
     "Girl grows a dick, girl loses control, and finally..."
     show cg_riley_lily1
     "Girl fucks another girl."
@@ -95,12 +128,13 @@ label scene8:
     "Lily can only say my name as she fucks me."
     "She's like that one dude I hooked up with in college."
     "He fumbled his way to an awkward orgasm, but damn if he didn't have the biggest dick I've ever seen."
-    "Lily's... is bigger."
+    "Lily's, though... is bigger."
     "It's hitting all the right places, too."
     "Is this part of her angelic lineage?"
     "Her skin and her hair is flawless."
     "Even while she's balls deep in me, her body looks incredible."
     show cg_riley_lily2
+    #add more sexy dialogue
     "She's clearly getting used to the motions of thrusting in and out now."
     l "So... good..."
     "How the hell has she not cum yet?"
@@ -133,6 +167,7 @@ label scene8:
     r "Well, for your first time..."
     r "Not bad."
     l "Um, well. That will be all for today."
+    "She rushes me into the showers and walks out, leaving me to fend for myself."
     #timeskip
     scene bg_riley_quarters
     "Whew, what a day."
@@ -147,6 +182,5 @@ label scene8:
     "If that semen she colledted is actually viable, we've got to expand our testing to other angels."
     show riley_bigpreg_underwear_smirk
     "First angels, then breast expansion, pregnancy, lactation and finally, futanari."
-    "I'm almost expecting some other freaky fetish to show up during my time here."
     "Who knows what tomorrow will bring?"
     jump scene9

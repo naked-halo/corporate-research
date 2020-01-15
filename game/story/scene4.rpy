@@ -143,7 +143,7 @@ r "Mirror. Lemme find a mirror."
 "As if on command, a panel flips over to reveal a shiny mirror on the wall."
 "Must be a mic hidden in here that responds to specific voice commands."
 "I can finally look at my tits properly."
-show show riley nipplepinch bigboobs underwear aroused
+show riley nipplepinch bigboobs underwear aroused
 "I pinch my nipples, which have somehow been made more sensitive by all of this growing they've been doing."
 r "Ohhh fuck, that's good."
 "I can see my hands sinking into my chest. They're everything I've dreamed about."
@@ -190,12 +190,16 @@ r "S-sure."
 show lily dildo
 show riley arms bigboobs casual embarassed
 "Oh God."
-l "I need you to masturbate with this."
+l "I need you to... use this."
 r "Seriously?"
 "The dildo in question is a pale, translucent blue, with what appears to be a small slot embedded inside where the testicles would be."
-"It's also... pretty big."
+"It's also pretty big. Like, a great deal thicker than my usual toys at home."
 show lily smallsmile
-l "Like it? I developed it myself. Just finished the commercial models last month."
+l "Like it? I developed it myself. Just finished a new version of the commercial models last month."
+l "That budget report you were peeking at was some of the cost and material expenses needed for R&D."
+r "This thing's that sophisticated? Isn't it just a dildo?"
+"Lily fails to repress a smirk as she continues."
+l "It's by and large one of our highest-in-demand products."
 l "There's plenty of settings for you to try, so knock yourself out."
 l "I'll let you head back to your quarters today for privacy."
 show riley arms bigboobs casual frown
@@ -207,7 +211,7 @@ l "I expect that this'll take a while, so feel free to take the day off."
 l "Just be sure to use the dildo tonight and report back to me tomorrow."
 r "Any 'surprises' this time?"
 show lily smallsmile
-l "I've included a list of instructions with the toy in the box there. Follow those."
+l "I've included a list of instructions with the toy in the box there. Follow those and you'll be fine."
 show riley arms bigboobs casual surprise
 r "Huh. Okay."
 show riley arms bigboobs casual smile
@@ -246,7 +250,8 @@ r "All right, awesome!"
 r "Let's see... 'Pregnant Amateur MILF', 'Pregnant Angel Lesbians IV', 'Pregnant Slut Does Anal'..."
 "Geez, There's a lot of pregnany-themed videos on this site."
 "It's also mostly girl-on-girl content; makes sense, considering the angels here."
-"I don't really mind either way. Porn is porn."
+"But uh, pregnancy? Guess these angels have something on their mind..."
+"I don't really mind either way. Porn is porn. Plus, some of these models look pretty sexy."
 "I can cast the tablet to the TV, so I hop onto the bed and start up a video."
 show cg_dildo1
 #start porn soundtrack
@@ -254,10 +259,10 @@ show cg_dildo1
 #porn sfx
 "Aaaaand there's the fucking."
 show cg_dildo2
-"I lazily circle my fingers around my clit while I focus on the action."
+"I start by lazily circling my fingers around my clit while I focus on the action."
 "Ooh, that's a good oral technique she's got there."
 "Hmm, it's been ages since anyone's gone down on me."
-"It's not because of the hair, it's just that guys get so grossed out by the taste."
+"It really sucks, most guys get so grossed out by the taste."
 "I wonder if a girl would be a better sexual partner for me instead?"
 "Then maybe I could really get down and dirty with her, tongues and all."
 #sound of straps/belts adjusting
@@ -310,7 +315,7 @@ r "Chocolate Afterglow… hell yes."
 "Is there a small vending machine next to me that delivers these?"
 show riley arms bigboobs underwear smile
 r "So good~!"
-"The power of chocolate and a touch of hazelnut fills my mouth as I settle back down with some Angel-based television shows."
+"The power of chocolate and a touch of hazelnut fills my mouth as I settle back down with some angel-based television shows."
 show riley arms bigboobs underwear smirk
 "I guess I'll report to Lily in the morning about my new sex life."
 "Should be fun chatting with her about how her toy is the best partner I've had so far."

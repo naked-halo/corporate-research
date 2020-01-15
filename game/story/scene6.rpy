@@ -3,12 +3,12 @@ label scene6:
 scene bg_riley_quarters
 "The next few weeks go by in a hazy, indescribable blur."
 "I'm poked and prodded by Lily every day, who takes her sweet time going through all of the data."
-"According to her, I'm one-sixteenth Scandinavian."
+"According to her DNA analyis, I'm one-sixteenth Scandinavian."
 "Huzzah."
 show cg_riley_preg3
 "Meanwhile, my 'baby' is healthy and continuing to grow."
 "It's only been about twenty or so days, but my belly has swollen to the equivalent of someone who's six months pregnant."
-"Lily swears that it doesn't move, but last night I swore it kicked."
+"Lily claims that it doesn't move, but last night I swore it kicked."
 "Who knows, all of these experiments are messing with my head, so it could be an hallucination."
 "If she's right this could grow even larger."
 "I don't know how much longer this pregnancy will last, either."
@@ -19,7 +19,7 @@ show riley arms medpreg underwear sad at centered
 r "I'm such a wreck."
 "At first I was all about following orders just to get things done, but that was clearly a poor attempt at self-preservation."
 show riley arms medpreg underwear neutral
-"I'll need to push back a little in order to prevent any other bizarre changes to my anatomy."
+"I'll need to push back a little in order to prevent any more bizarre changes to my anatomy."
 "Girding myself, I get dressed and head over to Lily's lab."
 scene bg_lily_lab
 show lily neutral at center_right
@@ -89,7 +89,7 @@ l "It was a request from a very influential member of that group."
 l "I just... happened to be affiliated with her, and she requested that I make it."
 show riley arms medpreg maternity question
 r "So you're part of the group and she commissioned your side of the business to make one?"
-l "In a way, yes."
+l "...In a way, yes."
 show riley crossed medpreg maternity neutral
 r "Seriously? Why use the fake gel stuff when you could just as easily make angels pregnant?"
 l "Well, that's actually why you're here, Riley."
@@ -111,7 +111,7 @@ l "We'd like to make a smaller arcology in Europe, but with our numbers stretche
 l "More angels concieved via pregnancy would be the best way to add to our numbers."
 r "Seems logical."
 show riley arms medpreg maternity question
-r "Wait, how would you guys get pregnant? You don't have any males, right?"
+r "Wait, how would you guys get pregnant? You don't have any males anymore, right?"
 l "...I have a few ideas on how to fix that."
 show riley arms medpreg maternity smirk
 r "What, like growing a penis?"
