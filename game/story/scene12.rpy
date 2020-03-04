@@ -1,23 +1,62 @@
 label scene12:
-    # r "I think I'll take you up on that pill offer."
-    # show lily question
-    # l "Um, are you sure? Did you want to lose the weight now?"
-    # r "Nah. I have a much better idea."
-    # show riley laugh
-    # r "Make me a futanari, Lily!"
-    # show lily surprise
-    # "Her eyes widen in surprise."
-    # l "Are you sure, Riley? I haven't even tested to make sure these work on humans yet..."
-    # show riley smirk
-    # r "I trust you. Besides, we have mostly the same DNA. I think it'll work just fine."
-    # l "Um... Okay."
-    # hide lily
-    # "She zips in and out of the testing room."
-    # show lily pill_red
-    # l "All right. Here it is."
+    "It's been a few months since that wonderful outing with Lily and that amazing barbeque."
+    "Lily's research has been going well, and we've... deepened our relationship a little bit."
+    "We're not really 'girlfriends', but we have a few days a week where I have to... relieve Lily of her urges."
+    "Turns out being a futanari raises your libido by a lot."
+    "You learn a lot about somone when they need to cum. All their sensitive spots, their favorite positions, you name it."
+    "Since I'm pregnant I can't do a whole lot on my own, so Lily takes the lead with her body."
+    "I'm not used to being the bottom all the time, but when your partner has the dick..."
+    "Positions aside, I find that I've enjoyed my time here."
+    "At first it was weird, what with the breast growth and pregnancy happening within the same week of each other."
+    "But soon it became pretty natural, like things had always been this way."
+    "So, imagine my surprise when..."
+    r "Woah, it's gone!"
+    "...my pregnancy finally ended."
+    "It didn't take very long for it to flush itself out of my system."
+    "My whole body feels so much lighter after that whole ordeal. A literal weight has left my belly, after all."
+    "Although..."
+    "It looks like I gained a lot of weight."
+    "At least 15 or 20 pounds, it looks like."
+    r "Guess I should have laid off the daily pints of ice cream..."
+    "A shame Lily doens't have a diet pill to make me skinny again."
+    "Guess I'll have to work this off the old-fashioned way."
+    "Thankfully, that should be easier without the huge pregnant belly in the way."
+    "Besides, I'll need to keep myself occupied at home somehow."
+    "Well, it's time to see Lily. I'm sure she's predicted this stage of the cytogel experiment."
+    show bg_lily_lab
+    l "Good morning, Riley. Did you... oh!"
+    "Her eyes immediately dart to my flatter stomach."
+    l "So it finally ended."
+    l "I was worried for a while after that extra growth spurt you had a while ago, but it looks like it went away without too much hassle."
+    r "Oh God, don't remind me. These past two months have been hell on my back."
+    r "I thought I was gonna pop."
+    l "But you looked cute, at least."
+    r "Says the pregnancy fetistist."
+    r "Well, at least it's over now. Got a little 'souvenir', too."
+    "I jiggle my fat around to emphasise my weight gain."
+    l "Ah yes, weight gain was expected since you couldn't move as much during the gestation period."
+    l "I think you can work it off; some of it is probably water weight."
+    l "If you want, I could make a pill to help you lose weight..."
+    r "Nah, don't worry about me. I'll drop these pounds in no time."
+    r "So..."
+    r "Is there anything else I need to do?"
+    l "Well, aside from some post-pregnancy tests... that's it."
+    l "I can arrange for you to go home in a few days."
+    r "Oh wow, it's that easy?"
+    l "It's that easy."
+    r "Well, should we get started with those tests, then?"
+    l "Of course."
+    "The tests are pretty straightforward -- some blood work, checking on my internal organs, and making sure I have no unusual lumps."
+    "Lily's expert care has ensured that I've been in perfect health, but it's best to be thorough."
+    l "Okay, I think we're all done here."
+    r "Great!"
+    r "So what's next?"
+    "Lily hesitates a little bit."
+    l "W-Well..."
+    r "Oh."
     show riley causal_fat_smirk at center_left
     show lily embarassed at center_right
-    "It isn't too hard to tell what Lily's thinking."
+    "It isn't too hard to tell what Lily's thinking at the moment."
     "I mean, she's got a raging boner that pokes through her skirt."
     r "What, you want to fuck? Now?"
     l "..."
@@ -133,9 +172,22 @@ label scene12:
     show riley nude futa smile
     r "Hey, Lily."
     l "Yeah?"
-    r "You want more? I've still got some steam to blow off."
-    show lily nude futa smile
-    l "I was actually gonna say the same thing, actually."
-    r "Well, allow me to continue, then. Want to see me riding you?"
-
+    r "I think I'll take you up on that pill offer."
+    show lily question
+    l "Um, what pill? Did you want me to make that weight loss pill?"
+    r "Nah. I have a much better idea."
+    show riley laugh
+    r "Make me a futanari, Lily!"
+    show lily surprise
+    "Her eyes widen in surprise."
+    l "Are you sure, Riley? I haven't even tested to make sure these work on humans yet..."
+    show riley smirk
+    r "I trust you. Besides, we have mostly the same DNA. I think it'll work just fine."
+    l "Um... Okay."
+    hide lily
+    "She zips in and out of the testing room."
+    show lily pill_red
+    l "All right. Here it is."
+    l "Are you sure you want to go through with this?"
+    r "After seeing how much fun you've been having? Hell yes I do."
     jump scene13

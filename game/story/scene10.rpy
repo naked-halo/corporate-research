@@ -1,7 +1,7 @@
 label scene10:
     "It doesn't take much longer for our volunteer pair to finish up with their 'test'."
     "We help them clean up and give them instrutions to return to the lab for more testing over the next few days."
-    l "All right, I think we can call it a day."
+    l "All right, I think we can call it for today."
     r "Whew, good."
     l "Tired?"
     l "We can do something fun to relax."
@@ -39,7 +39,7 @@ label scene10:
     r "Believe it or not, I do like my little apartment. All my books and games are there too."
     l "I... could arrange a home visit for a day, if you want to."
     r "Really? You'd do that?"
-    l "Normally we don't allow for it but I think I can pull a few strings."
+    l "Normally we don't allow for it, but I think I can pull a few strings."
     l "Let's go tomorrow, after our tests are done."
     r "Oh wow, thank you!"
     "I'm honestly a little surprised. Lily's being awfully generous today."

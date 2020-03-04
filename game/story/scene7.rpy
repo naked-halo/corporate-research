@@ -55,7 +55,7 @@ label scene7:
     show riley arms medpreg maternity smile
     r "Phew. Good."
     l "We have access to our genome so it's pretty easy to look at genes and figure out what needs to be modifed."
-    l "Since the human genome is virtually identical, it was easy to test new medicaton on."
+    l "Since the human genome is nearly identical, it was easy to test new medicaton on."
     r "So I guess you weren't kidding when you said you needed a human for this role."
     r "Since you can't determine if angels could even survive, you had to test on something equivalent."
     r "If things went wrong and angels started dying, then you'd have a dwindling supply of people keeping the planet together."
@@ -74,7 +74,8 @@ label scene7:
     r "These better not make me grow a penis."
     l "Don't tell me you're still hung up on that?"
     l "I'm still a ways off on making a pill that can modify genitalia to that degree."
-    l "I think at the most, you'd just be making your current genitalia much bigger."
+    l "Right now, you'd just be making your current genitalia much bigger."
+    l "Interested?"
     show riley arms medpreg maternity shrug
     r "My junk's plenty big, so I'll pass."
     l "Suit yourself. Well, see you tomorrow!"
@@ -110,7 +111,7 @@ label scene7:
     "All the stuff you normally hear about pregnancy - the nausea, the mood swings, and even stuff like lactation - haven't happened."
     "I guess I could call myself lucky..."
     r "Ugh. Fuck."
-    "I groan as I realize that I'm stuck this way for another six months."
+    "I groan as I realize that I'm stuck this way for another few months."
     "Seriously, if I ever meet the angel who requested this design..."
     "..."
     "Whatever."
@@ -146,7 +147,7 @@ label scene7:
     l "Well, that's it for this examination."
     l "Remember what I said during your last growth spurt?"
     show lily smile_pill
-    l "Now that you've finished growing, now you can try this new pill I developed!"
+    l "Now that you've finished growing for the time being, now you can try this new pill I developed!"
     "Ah, crap. I knew there was a reason she was excited to see me today."
     "Well, I guess it can't be all that bad."
     r "All right, hit me. What crazy stuff will happen to me now?"
@@ -270,7 +271,6 @@ label scene7:
     "They look a lot like the industrial milkers attached to..."
     r "Hey, wait a minute. Just because I have these big things doesn't mean you have to treat me like a cow!"
     l "These kinds of pumps are all we have on file. Angels haven't needed -- or more accurately, been able -- to lactate for at least 12,000 years."
-    r "Ah. I guess that makes sense."
     r "I just hope you know what you're doing here."
     l "Don't worry, it's not going to go at full speed. I can control them with the tablet."
     r "All right."
@@ -373,7 +373,7 @@ label scene7:
     #whir sfx
     "She warmly smiles at me as she gets the bath ready."
     #water sfx
-    l "Okay, looks like it's ready now. Take your time."
+    l "Okay, it'll be ready in a few moments. Take your time."
     r "Cool. Thanks."
     "As I slip into the bathtub, I let my body relax."
     #long timeskip

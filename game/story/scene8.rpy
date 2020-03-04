@@ -10,9 +10,8 @@ label scene8:
     "She hesitates a little bit."
     r "What?"
     l "I think for this one I'll need to test things on myself."
-    l "It's meant for angels instead of humans."
     show riley maternity_bigpreg_smirk
-    r "Really? You guys don't need to test this on other guinea pigs like myself?"
+    r "Really? You don't need to test this on your favorite lab rat?"
     l "Normally, yes. But I'm confident that this will work."
     l "But... I think this should wait until tomorrow."
     l "You're clearly tired, so I think you should take the rest of the day off."
@@ -167,12 +166,13 @@ label scene8:
     r "Well, for your first time..."
     r "Not bad."
     l "Um, well. That will be all for today."
+    r "H-Hey!"
     "She rushes me into the showers and walks out, leaving me to fend for myself."
     #timeskip
     scene bg_riley_quarters
     "Whew, what a day."
     show riley_bigpreg_underwear_neutral
-    "I certainly wasn't expecting getting fucked by a futanari today."
+    "I certainly wasn't expecting getting fucked by a freshly-minted futanari today."
     show riley_bigpreg_underwear_smile
     "But hey, I can't even be mad at her."
     "This is so fucking cool!"

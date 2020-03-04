@@ -10,8 +10,8 @@ l "The building you're probably familiar with on the outside is just a front. Su
 l "The Corporation is actually an arcology that extends some 300 meters underground. We've created a completely self-sustaining environment here."
 r "Incredible…"
 "It's like something out of a science fiction book."
-"Beautiful buildings dot the streets, all with a bunch of wares, from handbags to fresh aquaponically grown food."
-"There's even an electronics store, of all things."
+"Beautiful buildings dot the streets, all with a wide variety of goods, from handbags to fresh aquaponically grown food."
+"There's even an electronics store, all Corporation-branded."
 show riley arms bigboobs normal question
 r "How many angels live here, anyway?"
 l "About two hundred thousand, give or take."
@@ -207,7 +207,7 @@ r "No pills or any other surprises today?"
 show lily neutral
 l "The pills you took were for Phase One of my experiments."
 l "Now that we successfully proved that they can modify tissue, I need to develop another version that uses the data I've collected from you."
-l "I expect that this'll take a while, so feel free to take the day off."
+l "I expect that this'll take a while, so feel free to take the rest of the day off."
 l "Just be sure to use the dildo tonight and report back to me tomorrow."
 r "Any 'surprises' this time?"
 show lily smallsmile
@@ -252,7 +252,7 @@ r "Let's see... 'Pregnant Amateur MILF', 'Pregnant Angel Lesbians IV', 'Pregnant
 "It's also mostly girl-on-girl content; makes sense, considering the angels here."
 "But uh, pregnancy? Guess these angels have something on their mind..."
 "I don't really mind either way. Porn is porn. Plus, some of these models look pretty sexy."
-"I can cast the tablet to the TV, so I hop onto the bed and start up a video."
+"I start casting the tablet to the TV, so I hop onto the bed and start up a video."
 show cg_dildo1
 #start porn soundtrack
 "It's a pretty standard porn plot: Girl meets girl, girl takes girl on date, girl takes girl to her apartment…"

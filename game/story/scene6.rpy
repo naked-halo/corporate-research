@@ -41,7 +41,7 @@ r "Geez, really?"
 "I'm not surprised, honestly."
 l "Unfortunately, yes. I'll have to monitor things a bit more closely over the coming days."
 show lily smallsmile
-l "According to the data we have so far, the next growth spurt will be the last."
+l "According to the data we have so far, the next growth spurt should be the last."
 "I guess that's good news, or what Lily considers to be good news."
 r "When's it going to happen?"
 l "That I'm not sure about yet. Could be next week... or next month."
