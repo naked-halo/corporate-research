@@ -5,7 +5,7 @@ label scene12:
     "Turns out being a futanari raises your libido by a lot."
     "You learn a lot about somone when they need to cum. All their sensitive spots, their favorite positions, you name it."
     "Since I'm pregnant I can't do a whole lot on my own, so Lily takes the lead with her body."
-    "I'm not used to being the bottom all the time, but when your partner has the dick..."
+    "I'm not used to being the bottom all the time, but when your partner has the dick, you learn to make do."
     "Positions aside, I find that I've enjoyed my time here."
     "At first it was weird, what with the breast growth and pregnancy happening within the same week of each other."
     "But soon it became pretty natural, like things had always been this way."
@@ -81,7 +81,7 @@ label scene12:
     show lily underwear_smallsmile
     show riley underwear_fat_smile
     r "Nice. Black suits you."
-    "Lily's cock peeks out from underneath her panties. It's gotten pretty big in anticipation."
+    "Lily's cock bulges out from underneath her underwear. It's gotten pretty big in anticipation."
     "She got a pretty sweet deal with those pills of hers."
     "Not only does she get to have a perfect body that's exactly my type, but she gets a huge cock on top of it all?"
     "God, I'm jealous."
@@ -131,17 +131,17 @@ label scene12:
     show cg_boobjob_3
     with dissolve
     r "There we go."
-    "The head of her penis swells in my mouth, the tip leaking precum."
+    "The head of her penis swells in my mouth, leaking precum."
     show cg_boobjob_6
     with dissolve
     r "Mmm, that's much better, isn't it?"
     r "My tits around your cock, and my mouth on the very tip?"
     l "Hah... yes, it's good."
     show cg_boobjob_1
-    with titjobdissolve
+    with titjobDissolve
     l "Mmh..."
     show cg_boobjob_1
-    with titjobdissolve
+    with titjobDissolve
     l "Ah! It's amazing!"
     l "I never thought I'd love this so much!"
     show cg_boobjob_3
@@ -153,7 +153,7 @@ label scene12:
     r "So good. So... hot."
     "Lily gasps as she tries to stop herself from going over the edge."
     show cg_boobjob_1
-    with titjobdissolve
+    with titjobDissolve
     l "Unh... Riley..."
     "Her expression is priceless right now. She's still resisting."
     "But, well, I know her weaknesses now."

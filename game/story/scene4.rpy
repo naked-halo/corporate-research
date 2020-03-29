@@ -72,7 +72,7 @@ l "Essentially. The younger angels are better, but they're few and far between."
 r "Do you ever leave the arcology?"
 show lily smallsmile
 l "Oh, all the time. How do you think I got this tan?"
-l "Most humans can't see the wings and the halo outside of the Corporation, so we can travel wherever we want without suspicion."
+l "Most humans can't see the wings and the halo outside of The Corporation, so we can travel wherever we want without suspicion."
 show riley crossed bigboobs normal neutral
 r "Sounds nice. So, where do you travel to? Singapore? Japan?"
 l "...Malibu."
@@ -129,7 +129,7 @@ show riley arms bigboobs underwear frown
 "If one of her experiments gave me these tits, what else does she have in store for me?"
 "It doesn't really matter how nicely she treats me; I'm still at her beck and call for everything."
 r "This sucks..."
-"Even with the tempting prospect of growing even bigger tits while I'm here, there's no way I'm doing that again."
+"Even with the tempting prospect of going up another cup size while I'm here, there's no way I'm doing that again."
 "..."
 "At least I didn't have to pay money for these things."
 show riley arms bigboobs underwear smirk
@@ -302,7 +302,7 @@ show cg_dildo8
 "Heh, if this were from a real human, I'd probably get pregnant from this."
 #fade to black
 #shower sfx
-"I clean up a little bit and decide to take a quick shower to rinse off the sweat."
+"I clean up a little bit and take a quick shower to rinse off the sweat."
 #fade to bg_riley_quarters
 show riley arms bigboobs underwear smirk
 "With my libido satiated, I decide to take it easy for the rest of the evening."

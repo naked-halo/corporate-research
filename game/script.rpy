@@ -180,7 +180,7 @@ transform center_left:
     common(-300)
 
 #Define transitions
-define titjobdissolve = MultipleTransition([
+define titjobDissolve = MultipleTransition([
 False, Dissolve (0.4),
 im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (0.7),
 im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.7),
@@ -189,6 +189,14 @@ im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.7),
 im.FactorScale("/images/cg/cg_boobjob_2.png", 0.5), Dissolve (0.7),
 im.FactorScale("/images/cg/cg_boobjob_4.png", 0.5), Dissolve (0.7),
 im.FactorScale("/images/cg/cg_boobjob_5.png", 0.5), Dissolve (0.7),
+True])
+
+define rileyRideMountDissolve = MultipleTransition([
+False, Dissolve (0.4),
+im.FactorScale("/images/cg/cg_ride_2.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_ride_3.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_ride_4.png", 0.5), Dissolve (0.7),
+im.FactorScale("/images/cg/cg_ride_5.png", 0.5), Dissolve (0.7),
 True])
 
 # The game starts here.

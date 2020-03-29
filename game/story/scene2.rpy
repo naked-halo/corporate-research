@@ -51,7 +51,7 @@ show riley arms normal nude sad at centered
 "The tiny room lights up a little bit as I get out of the bed."
 "I try to go through as much of a normal morning routine as I can: washing my face, brushing my teeth (with the world's smallest toothbrush), and ordering some food from the app on my tablet."
 show riley arms normal nude neutral
-"Surprisingly, the bagel I order slides out of a panel in the wall. It's even warmed up."
+"Surprisingly, the bagel I order slides out of a panel in the wall. It's even toasted."
 r "Better than nothing..."
 #crossfade to bg_lily lab
 scene bg_lily_lab

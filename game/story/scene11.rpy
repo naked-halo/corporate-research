@@ -104,7 +104,7 @@ label scene11:
     l "You ate quite a bit more than I did. I'm impressed that it all fit in there."
     r "I don't know how I did it, to be honest. Maybe my body just needed all of that today?"
     "Lily shrugs. Guess understanding of the digestive system isn't as advanced as, say, making my boobs bigger."
-    r "Anyway, I think I'm gonna relax this evening. Want to join?"
+    r "Anyway, I think I'm gonna relax this evening. Care to join me?"
     l "I suppose I could. There's not much left to do at the lab, anyway."
     "She sits down on the bed and motions to me to join her."
     "This'll be a nice evening, I think."
