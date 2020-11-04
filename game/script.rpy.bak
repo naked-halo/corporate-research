@@ -155,6 +155,6 @@ True])
 
 label start:
     #sets up anything else in pre_start, then starts the game.
-    call pre_start from _call_pre_start
-    call real_start from _call_real_start
+    call pre_start
+    call real_start
 return

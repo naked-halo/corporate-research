@@ -24,21 +24,27 @@ label real_start:
  "I try to struggle against my restraints. If they figured out it was me I'm dead, or worse."
  woman "Hey! Get the relaxant!"
  scene interrogation_blindfold_removed
- "Before I can act any more, someone injects me. The effect is immediate and I lose all control in my arms and legs."
+ "Before I can act any more, someone injects me in the thighs with something. The effect is immediate and I lose all control in my legs."
+ r "H-hey! What the hell!"
+ "I struggle with all of my strength, but absolutely nothing happens with my legs."
+ "An intense pins-and-needles feeling shoots through my legs."
+ "Whatever drug they injected, I'm completely at their mercy now."
  woman "Looks like that worked. Now..."
  #snap sfx
  "The woman addressing me snaps her fingers and the blindfold is removed."
  #fabric rustling
  scene interrogation_no_blindfold
  "I can't make out the face of the woman in front of me; it's too bright."
- woman "Riley Miller. Age 23, 158 centimeters, 80 kilograms, 76 centimeter bust... ah, an A-cup."
- r "Hey! I'm at least a B!"
+ woman "Riley Miller. Age 23, 158 centimeters, 80 kilograms, 76 centimeter bust..."
+ "The hell? How does she know all these things about me?"
+ r "Hey! That's private!"
  "The woman drones on, my insistence falling on deaf ears."
- woman "Lives at the apartment complex on 1280 Harbor Drive, works as a freelancer, college graduate..."
+ woman "Lives at the apartment complex on 1280 Harbor Drive, works as a freelancer..."
  "She's holding a big stack of papers and idly paging through them."
+ "I can tell that there's more in that file. These guys are thorough."
  "Eventually, she puts it all down and addresses me."
  woman "Okay, I think I have a clearer picture here."
- woman "Riley, we discovered several offshore accounts in your name, all with several thousand near-identical deposits of two cents made every day."
+ woman "Riley, we discovered several bank accounts in your name, all with several thousand near-identical deposits of two cents made every day."
  woman "We also picked out where those deposits were coming from."
  "She shows me a transaction record from a few big corporations."
  "Indez, Macrosoft, JoyFoods... Damn, these people are good."
@@ -50,7 +56,7 @@ label real_start:
  woman "I'm waiting."
  r "..."
  r "Technically, yes."
- woman "I'll take that as an admission."
+ woman "I'll take that as an admission of guilt."
  woman "Several days ago, you accessed one of our offshore servers in an attempt to find some financial information, right?"
  "I grind my teeth."
  r "I knew that was too easy to get into..."
@@ -58,11 +64,12 @@ label real_start:
  "Rumors of their influence on city affairs, the fact that their building seems to always be closed to the public..."
  "And finally, the fact that some people occassionaly got jobs there, only to completely vanish off the map for a few months."
  "When they were released, they claimed they were under a strict NDA and could say nothing."
- "There was something shady going on here."
+ "There was definitely something shady going on there."
  "I decided to do my own investigation to see what I could find, and possibly make a profit in the process."
- "Unfortunately, it seems I got found out."
+ "Because hey, why shouldn't I? I've gotten away with hacking databases before."
+ "Unfortunately, it seems I got found out this time."
  woman "After your latest acquisition of funds, we decided to take action and, well, leave the door open, so to speak."
- woman "After that, it wasn't too difficult to trace your location and positively ID you."
+ woman "It wasn't too difficult to trace your location and positively ID you after that."
  "So they already had plans to take someone like me out."
  "What kind of organization is this?"
  woman "After you've been processed here, you'll be taken to the local authorities and arrested for wire fraud and embezzlement."
@@ -72,17 +79,17 @@ label real_start:
  woman "Here, let's get you in a more comfortable position."
  scene bg_interrogation
  "The lights go out and I can finally make out who my interrogator is."
- show riley arms normal nude sad at center_left
- show lily neutral at center_right
+ show riley body_start nude arms_sides sad at center_left
+ show lily at center_right
  "There's a strange circle around this woman's head, and are those..."
- woman "Yes, they're real. No, you can't touch them."
- show riley arms normal nude surprise
+ show riley body_start nude arms_sides
  r "Shit. What is this..."
+ woman "Yes, they're real. No, you can't touch them."
  woman "Now. I can offer you an alternative to prison time."
  woman "Should you accept, you'll be working for me in my laboratory as an assistant and test subject."
- show riley arms normal nude question
+ show riley body_start nude arms_sides neutral
  r "Test subject? For what?"
- show lily smallsmile
+ # show lily smallsmile
  woman "That's classified for now."
  woman "Don't worry, I'm not going to vivisect you or anything."
  woman "I just need a good, healthy human who can follow orders."
@@ -98,51 +105,54 @@ label real_start:
  r "...Gimme a minute."
  "Well, she's not really giving me any choice here. Ten years in jail sucks ass."
  "At this point it's just a formality. She already has what she wants - me."
- show riley arms normal nude mad
+ show riley body_start nude arms_sides sad
  r "All right. Fine. You win."
  "I grab the pen and sign my name on the paper."
- show riley arms normal nude neutral
+ show riley body_start nude arms_sides neutral
  "..."
  "Huh. And here I thought it was going to glow or magically bind my soul or something."
  "But I'm... fine?"
  show lily neutral
  woman "Is there a problem?"
- show riley arms normal nude mad
+ show riley body_start nude arms_sides sad
  r "Several."
  woman  "Such as?"
  r "Why bother with all of this? You could have just kept me strapped to a chair and asked me to do whatever, right?"
- show lily frownhips
+ # show lily frownhips
  woman "You think we're running some sort of illegal operation here? Please."
- woman "I've got countless Archangels breathing down my back every day. If they caught a whiff of me breaking any of their precious procedures I'd be stripped of all my research."
+ woman "I've got countless Archangels breathing down my back every day. If they caught a whiff of me breaking any of their precious procedures I'd be stripped of all my ranks and research."
  woman "We do things by the book here, contracts and all."
  r "That still doesn't excuse the fact that you guys fucking kidnapped me!"
  "She glares at me more intensely than I thought possible."
  woman  "You did hack into our corporate database, right?"
  woman  "We have every right to protect our Corporation from outside intrusion. That includes humans like you."
- show lily inhaleecig
+ # show lily inhaleecig
  "She whips out what appears to be an e-cigarette and inhales deeply."
- show lily exhaleecig
+ # show lily exhaleecig
  "Ugh. Smells obnoxiously fruity."
- show lily neutralhips
+ # show lily neutralhips
  woman  "Whatever the circumstance, you're officially an employee of The Corporation now. You're reporting to me, so I'll be taking care of you, as per the terms of the contract."
+ woman "Can you stand? The relaxant should have worn off by now."
+ "I try to move my feet and legs. The pins-and-needles feeling is gone."
+ r "Yeah."
  woman  "Follow me."
  "I don't really have any other choice, so I follow her as she exits the room."
  scene bg_lily_lab
  "I'm lead through what feels like the world's largest cubicle farm and past some big doors."
- show riley arms normal nude neutral at center_left
- show lily neutral at center_right
+ show riley body_start clothed arms_sides smile at center_left
+ show lily at center_right
  woman  "Welcome to my laboratory."
  r "Your laboratory?"
  "It's full of everything you'd expect a mad scientist to have - beakers, whiteboards, the works."
  woman  "We work on a lot of things here, from new construction compounds to medicine."
  "Several angels look towards us, parting ways for the woman to pass through unimpeded."
- show lily smallsmile
+ # show lily smallsmile
  woman  "I'm the director, of course."
- woman  "You'll be working for me as my personal assistant for my latest projects."
+ woman  "You'll be working for me as my personal test subject for my latest projects."
  r "Which are?"
  woman  "I need to study your day-to-day reactions under specific conditions to test some new medications I've been tinkering with."
  r "That's it? Why can't another angel do it?"
- show lily neutral
+ # show lily neutral
  woman "Angels are lacking in a few critical areas, I'm afraid. You, though, have everything I want in order to test things out."
  woman "But, you're clearly in no condition today. Allow me to take you to your living quarters."
 jump scene2

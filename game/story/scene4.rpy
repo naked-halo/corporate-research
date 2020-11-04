@@ -86,16 +86,16 @@ r "But why Malibu? You don't seem the type, no offence."
 "Aside from the tan, of course."
 l "It's warm and there's a lot of natural sunlight, something you can't get here."
 l "Plus, the houses are nice."
-"I never would have pegged the ultra serious Head Researcher as someone who'd go out of her way for some sunlight."
+"I never would have pegged the ultra-serious Head Researcher as someone who'd go out of her way for some sunlight."
 r "Fair enough."
 r "So, where's this clothing store?"
 "Lily points at a corner of the street we're walking on."
-l "Just at the end there. We'll get something that fits your new…"
+l "Just at the end there. We'll get something that fits your new..."
 "For some reason, she hesitates."
 r "Go on, you can say it."
 show lily embarrassed
-l "Something that fits… your new breasts."
-r "That's a new expression. Don't tell me…"
+l "Something that fits, uh... your new breasts."
+r "That's a new expression. Don't tell me..."
 show riley arms bigboobs normal smirk
 r "You like these, don't you?"
 show riley breastlift bigboobs normal smirk
@@ -106,7 +106,7 @@ r "Suuuure it is."
 "Well, it didn't take long to find her weakness."
 #timeskip
 scene bg_hallway
-"There were a variety of bras, but I elected for one that could support my back a bit better."
+"There were a variety of bras, but I elected for one that could support my back."
 show riley arms bigboobs normal laugh at center_left
 show lily smallsmile at center_right
 r "Whew, this is so much better."
@@ -139,10 +139,9 @@ show riley arms bigboobs underwear smirk
 show riley arms bigboobs underwear arousedopen
 "There's not a whole lot of material to get off to here, but I've managed before."
 r "Mmh..."
-r "Mirror. Lemme find a mirror."
-"As if on command, a panel flips over to reveal a shiny mirror on the wall."
-"Must be a mic hidden in here that responds to specific voice commands."
-"I can finally look at my tits properly."
+r "Mirror."
+"There's a huge mirror next to the couch and TV that I can use."
+"I can strip finally look at my tits properly."
 show riley nipplepinch bigboobs underwear aroused
 "I pinch my nipples, which have somehow been made more sensitive by all of this growing they've been doing."
 r "Ohhh fuck, that's good."
@@ -238,11 +237,11 @@ show riley arms bigboobs casual smile at centered
 "The tablet automatically detects any devices it can interact with, from the TV to this sex toy."
 "Hmm... medium pump speed, maximum gel viscosity, and for good measure, set the heat to 'warm'."
 "If I'm right this will give a semi-realistic feel, which I'm all about."
-"With that ouy of the way…"
+"With that out of the way..."
 hide riley
 #undressing animation
 show riley arms bigboobs nude smile
-"I check to see if the tablet I have has any access to porn, either on the outside or inside The Corporation's own intranet."
+"I check to see if the tablet I have has any access to porn."
 "Thanks to my skills at navigating computer networks, it doesn't take long to find what I'm looking for."
 r "All right, awesome!"
 "There's a ton of videos, some even featuring angels."
@@ -255,7 +254,7 @@ r "Let's see... 'Pregnant Amateur MILF', 'Pregnant Angel Lesbians IV', 'Pregnant
 "I start casting the tablet to the TV, so I hop onto the bed and start up a video."
 show cg_dildo1
 #start porn soundtrack
-"It's a pretty standard porn plot: Girl meets girl, girl takes girl on date, girl takes girl to her apartment…"
+"It's a pretty standard porn plot: Girl meets girl, girl takes girl on date, girl takes girl to her apartment..."
 #porn sfx
 "Aaaaand there's the fucking."
 show cg_dildo2
@@ -266,7 +265,7 @@ show cg_dildo2
 "I wonder if a girl would be a better sexual partner for me instead?"
 "Then maybe I could really get down and dirty with her, tongues and all."
 #sound of straps/belts adjusting
-"Oh hell yeah, now the top is getting out her strap-on…"
+"Oh hell yeah, now the top is getting out her strap-on..."
 show cg_dildo3
 "Shit, that's a big one. How does it fit in there?"
 "That dildo Lily gave me is looking awfully tempting right about now."
@@ -277,20 +276,27 @@ show cg_dildo4
 show cg_dildo5
 "I set up the toy on the bed and start hovering over the head, ready to go."
 "This is a thicker toy, so I'll have to go slow at first."
-r "Here goes…"
+r "Here goes..."
 show cg_dildo6
 "As I begin to penetrate the toy, it starts to vibrate a little."
 "Instead of just a flat vibration, the toy twitches and throbs, almost like the real deal."
 "The mass of the shaft feels like it's moving into me, too."
-r "Fffffuck…"
+r "Fffffuck..."
 show cg_dildo7a
 "I relax and let the dildo slide all the way up my pussy."
-"The entire toy feels alive, rhythmically moving up and down."
+"The toy's bigger size was intimidating at first, but thanks to the lube it goes in with little issue."
+r "Oh wow, that's good."
+"I slowly start moving my hips to test how deep I can go."
+"The texture of this feels so realistic."
+r "So close to the real thing..."
+"It's so warm, like a living human being is right below me."
+"Now that my insides are lubricated, I can start moving my hips more freely."
 show cg_dildo7b
 "It doesn't take long for me to find a rhythm that works, allowing for maximum penetration and pleasure."
+r "Ahh! So good!"
 "I can't help but let out a few blissful cries as the pleasure builds inside me."
 "It quickly swells, like a dam about to burst."
-r "Ohmygodohmygodohmygodohmygod—-"
+r "OhmygodohmygodohmygodohmyGOOOOOOD—-"
 show cg_dildo8
 "And just like that, the dam breaks."
 "The toy also launches that special gel at about the same time, filling my insides with sticky ejaculate."
@@ -302,17 +308,17 @@ show cg_dildo8
 "Heh, if this were from a real human, I'd probably get pregnant from this."
 #fade to black
 #shower sfx
-"I clean up a little bit and take a quick shower to rinse off the sweat."
+"I clean up a little bit and take a quick shower to rinse off."
 #fade to bg_riley_quarters
 show riley arms bigboobs underwear smirk
 "With my libido satiated, I decide to take it easy for the rest of the evening."
-"Feeling like spoiling myself further, I order some ice cream from the tablet."
+"Feeling like spoiling myself further, I order some ice cream from the vending panel."
 "Appropriately, there's a flavor that catches my eye."
 show riley arms bigboobs underwear surprise
-r "Chocolate Afterglow… hell yes."
+r "Chocolate Afterglow... hell yes."
 "Post-sex ice cream is, after all, the best thing in the world."
 "Like magic, it arrives in no time flat."
-"Is there a small vending machine next to me that delivers these?"
+"What kind of delivery system do they have that gets this food to me so quickly?"
 show riley arms bigboobs underwear smile
 r "So good~!"
 "The power of chocolate and a touch of hazelnut fills my mouth as I settle back down with some angel-based television shows."

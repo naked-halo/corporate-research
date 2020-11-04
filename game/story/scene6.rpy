@@ -55,7 +55,7 @@ show lily surprised
 l "Riley, are you okay?"
 show riley arms medpreg casual embarassed
 r "I-it's nothing!"
-r "Just... trying to get everything back on."
+r "Just... trying to get everything together."
 l "I was going to mention this but..."
 show lily question
 l "Do you need some new clothes?"
@@ -94,7 +94,7 @@ show riley crossed medpreg maternity neutral
 r "Seriously? Why use the fake gel stuff when you could just as easily make angels pregnant?"
 l "Well, that's actually why you're here, Riley."
 show riley arms medpreg maternity surprise
-r "Huh?!?"
+r "Huh?"
 l "I'm tring to see if I can use the pills I developed to make us fertile."
 l "We have a womb and ovaries, but they're pretty much vestigial."
 l "We haven't had an angel pregnancy in 12,000 years."

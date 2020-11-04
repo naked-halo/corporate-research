@@ -17,7 +17,7 @@ show cg_preg1
 "I almost fall out of the bed as I notice something's off."
 "My sense of balance is weird somehow."
 "It only takes a second to see why."
-"There's a… bulge."
+"There's a... bulge."
 "It's not fat, though. It feels a lot different."
 "But what is it?"
 "..."
@@ -33,7 +33,7 @@ show bg_riley_quarters
 show riley arms smallpreg underwear nervous at centered
 "Fuck, I can't go out like this!"
 #phone sfx
-"My tablet rings. Is it Lily?"
+"My tablet rings with an incoming call. Is it Lily?"
 r "H-hello?"
 "My voice sounds weak."
 l "You're awake? Are you on your way to the lab?"
@@ -72,7 +72,7 @@ l "We're sterile, after all."
 l "Initial research shows that a lot of us have some level of pregnancy fetish, especially with the whole pregnant 'look'."
 "Well, I guess that explains the porn I saw..."
 l "That's why it's so fast-acting; for getting that belly nice and big."
-l "There's even a subset of angels who like wearing fake pregnancy bellies..."
+l "There's even a subset of angels who like wearing huge pregnancy bellies..."
 r "I don't care! I don't want this thing inside me!"
 show riley crossed smallpreg casual sad
 r "I want out. I want to go home, and I don't want any more to do with this shit you're cooking up!"

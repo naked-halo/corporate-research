@@ -20,7 +20,7 @@ label scene12:
     r "Guess I should have laid off the daily pints of ice cream..."
     "A shame Lily doens't have a diet pill to make me skinny again."
     "Guess I'll have to work this off the old-fashioned way."
-    "Thankfully, that should be easier without the huge pregnant belly in the way."
+    "Thankfully, that should be easier without the huge pregnant belly."
     "Besides, I'll need to keep myself occupied at home somehow."
     "Well, it's time to see Lily. I'm sure she's predicted this stage of the cytogel experiment."
     show bg_lily_lab

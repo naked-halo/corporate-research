@@ -10,7 +10,7 @@ label scene11:
     "Sure enough, Lily is occupied with stroking her member."
     "She's not even aware I'm watching her."
     l "Mmm...hnng..."
-    "Her cock twitches and throbs, with her breath quickening with every stroke."
+    "Her cock twitches and throbs, her breath quickening with every stroke."
     "Eventually..."
     l "Ahhhh~!"
     "Her cum shoots out in ropy strands over the sink, leaving her breathless."

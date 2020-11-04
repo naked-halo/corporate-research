@@ -47,7 +47,7 @@ label scene7:
     l "For all we know, They're in some distant galaxy doing something similar with another alien species."
     r "So all of your work is going to manipluate what your creator built on? Doesn't that come with risks?"
     show lily neutral
-    l "A lot. For one, it could degrade our DNA even further and cause us all sorts of problems."
+    l "A lot. For one, it could degrade our DNA and cause us all sorts of problems."
     show riley arms medpreg maternity surprise
     "I blanch."
     r "Wait, then what about me?"
@@ -72,11 +72,17 @@ label scene7:
     l "After your next growth spurt you'll be testing their effectiveness."
     show riley crossed medpreg maternity neutral
     r "These better not make me grow a penis."
-    l "Don't tell me you're still hung up on that?"
+    l "Don't tell me you're still 'hung' up on that?"
+    r "Was that a pun?"
+    l "What? I can be funny too, you know."
+    r "It's just... surprising. You've been pretty tight-lipped this whole time."
+    l "I guess I've been getting used to you as a co-worker, rather than a company asset."
+    l "Anyway..."
     l "I'm still a ways off on making a pill that can modify genitalia to that degree."
     l "Right now, you'd just be making your current genitalia much bigger."
-    l "Interested?"
+    l "Interested in trying it?"
     show riley arms medpreg maternity shrug
+    r "Now I know you're joking."
     r "My junk's plenty big, so I'll pass."
     l "Suit yourself. Well, see you tomorrow!"
     #timeskip
@@ -133,7 +139,7 @@ label scene7:
     l "Of course."
     l "This is pretty interesting. Your first few months you had some slow, but steady growth."
     l "But these last few hours you grew quite a lot!"
-    l "The cytogel is fully mature; it's about 20 inches long now."
+    l "The cytogel is in its fully mature stage; it's about 20 inches long now."
     r "Fun. Exciting."
     l "Didn't you say you wanted to be more invested in the baby?"
     r "Stop calling it that. It's not a baby!"
@@ -161,8 +167,8 @@ label scene7:
     r "Would impact the experiment. Gotcha."
     show riley arms bigpreg maternity shrug
     "I take the pill from her hand and start chewing."
-    "Huh, this one tastes like chocolate."
-    r "Why chocolate?"
+    "Huh, this one tastes like vanilla."
+    r "Why vanilla?"
     l "I just thought you might like something different."
     r "No complaints here."
     "I swallow the rest of the pill and wait."

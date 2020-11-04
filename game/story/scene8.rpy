@@ -44,11 +44,11 @@ label scene8:
     l "It's been five years of research, all condensed into one of these pills."
     show lily_neutral
     l "I'm ready."
-    l "Now hold on. I need to remove my pants."
+    l "Now hold on. I need to remove my clothes."
     show riley maternity_bigpreg_surprise
     r "Woah!"
     show cg_lily_pillscene1
-    "In one smooth motion, she's removed her pants and underwear, showing off her bare crotch."
+    "In one smooth motion, she's removed her clothing, showing off her body."
     l "Riley, I'll need you to take notes and record this next part for me."
     l "These changes require a lot of my concentration."
     r "O-On it!"
